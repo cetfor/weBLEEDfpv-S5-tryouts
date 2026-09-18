@@ -1,6 +1,12 @@
 # weBLEEDfpv Season 5 Qualifier Board
 
-Static GitHub Pages scoreboard for the three-track Velocidrone tryouts. The GitHub Action runs every 15 minutes, fetches the three public leaderboard pages, keeps only pilots with a qualifying model and a time on every track, ranks them by combined time, and commits the generated `public/data/scoreboard.json` file.
+This is a vibe-coded static GitHub Pages scoreboard for the weBLEEDfpv Season 5 Velocidrone tryouts. The GitHub Action runs every 15 minutes, fetches the three public leaderboard pages, keeps only pilots with a qualifying model and a time on every track, ranks them by combined time, and commits the generated `public/data/scoreboard.json` file.
+
+For official times join the weBLEEDfpv Discord and check the `wb-s5-bot` channel. The bot prints your rank as you earn new PB times, but does not currently show a complete leaderboard - MrE is working on this. Once that's up and running this repo and leaderboard will be removed to avoid confusion. Remember, these are unofficial times updated every 15 minutes. You must have a top 200 time set on each of the three Season 5 tracks with the correct quad model in order to appear on this leaderboard.
+
+1. [weBLEEDfpv Season 5 T1 - Tiny Hawk](https://www.velocidrone.com/leaderboard/105/2174/All)
+2. [weBLEEDfpv Season 5 T2 - Hummingbird RS](https://www.velocidrone.com/leaderboard/105/2175/All)
+3. [weBLEEDfpv Season 5 T3 - Cetus PRO](https://www.velocidrone.com/leaderboard/33/2176/All)
 
 ## Scoreboard
 
