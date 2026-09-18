@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T15:15:50.245Z",
+  "generatedAt": "2026-09-18T15:38:22.962Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -53,6 +53,16 @@
       "rank": 5
     },
     {
+      "name": "Rouxfpv",
+      "times": {
+        "T1": 135937,
+        "T2": 119344,
+        "T3": 144704
+      },
+      "totalMs": 399985,
+      "rank": 6
+    },
+    {
       "name": "Fife Flyer",
       "times": {
         "T1": 146660,
@@ -60,7 +70,7 @@
         "T3": 134882
       },
       "totalMs": 401611,
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "heaVeNLy_SD",
@@ -70,7 +80,7 @@
         "T3": 137023
       },
       "totalMs": 402395,
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "Giddy Gimbals",
@@ -80,7 +90,7 @@
         "T3": 131335
       },
       "totalMs": 409241,
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "FulcrumFPV",
@@ -90,7 +100,7 @@
         "T3": 137391
       },
       "totalMs": 423608,
-      "rank": 9
+      "rank": 10
     },
     {
       "name": "_-Crimson-_",
@@ -100,7 +110,7 @@
         "T3": 138679
       },
       "totalMs": 428539,
-      "rank": 10
+      "rank": 11
     },
     {
       "name": "TMAD",
@@ -110,7 +120,7 @@
         "T3": 138817
       },
       "totalMs": 436531,
-      "rank": 11
+      "rank": 12
     },
     {
       "name": "PacoFPV (Beta Tester)",
@@ -120,7 +130,7 @@
         "T3": 124428
       },
       "totalMs": 439760,
-      "rank": 12
+      "rank": 13
     },
     {
       "name": "paszkevi4",
@@ -130,7 +140,7 @@
         "T3": 145263
       },
       "totalMs": 442056,
-      "rank": 13
+      "rank": 14
     },
     {
       "name": "OGdrLove",
@@ -140,7 +150,7 @@
         "T3": 137469
       },
       "totalMs": 447846,
-      "rank": 14
+      "rank": 15
     },
     {
       "name": "j4y",
@@ -150,7 +160,7 @@
         "T3": 136926
       },
       "totalMs": 448050,
-      "rank": 15
+      "rank": 16
     },
     {
       "name": "Perc.FPV",
@@ -160,7 +170,7 @@
         "T3": 149505
       },
       "totalMs": 454403,
-      "rank": 16
+      "rank": 17
     },
     {
       "name": "Shark__fpv",
@@ -170,7 +180,7 @@
         "T3": 156906
       },
       "totalMs": 455677,
-      "rank": 17
+      "rank": 18
     },
     {
       "name": "Wheelman1",
@@ -180,7 +190,7 @@
         "T3": 143349
       },
       "totalMs": 460167,
-      "rank": 18
+      "rank": 19
     },
     {
       "name": "Kbar",
@@ -190,7 +200,7 @@
         "T3": 141039
       },
       "totalMs": 469088,
-      "rank": 19
+      "rank": 20
     },
     {
       "name": "OmegaZenon",
@@ -200,7 +210,7 @@
         "T3": 159869
       },
       "totalMs": 470358,
-      "rank": 20
+      "rank": 21
     },
     {
       "name": "Royden99",
@@ -210,7 +220,7 @@
         "T3": 153802
       },
       "totalMs": 477764,
-      "rank": 21
+      "rank": 22
     },
     {
       "name": "Bam_",
@@ -220,7 +230,7 @@
         "T3": 193676
       },
       "totalMs": 478126,
-      "rank": 22
+      "rank": 23
     },
     {
       "name": "FPVRossco",
@@ -230,7 +240,7 @@
         "T3": 152171
       },
       "totalMs": 478277,
-      "rank": 23
+      "rank": 24
     },
     {
       "name": "-Zip-",
@@ -240,7 +250,7 @@
         "T3": 161780
       },
       "totalMs": 487947,
-      "rank": 24
+      "rank": 25
     },
     {
       "name": "FakeitFPV",
@@ -250,7 +260,7 @@
         "T3": 152972
       },
       "totalMs": 496128,
-      "rank": 25
+      "rank": 26
     },
     {
       "name": "_ZAR_",
@@ -260,7 +270,7 @@
         "T3": 153760
       },
       "totalMs": 504589,
-      "rank": 26
+      "rank": 27
     },
     {
       "name": "Fastodon",
@@ -270,7 +280,7 @@
         "T3": 147660
       },
       "totalMs": 511348,
-      "rank": 27
+      "rank": 28
     },
     {
       "name": "Trooper_fpv",
@@ -280,7 +290,7 @@
         "T3": 157453
       },
       "totalMs": 518893,
-      "rank": 28
+      "rank": 29
     },
     {
       "name": "xer ‎",
@@ -290,7 +300,7 @@
         "T3": 209877
       },
       "totalMs": 534716,
-      "rank": 29
+      "rank": 30
     },
     {
       "name": "h0pefpv",
@@ -300,7 +310,7 @@
         "T3": 164629
       },
       "totalMs": 536588,
-      "rank": 30
+      "rank": 31
     },
     {
       "name": "SteadyTrekker",
@@ -310,7 +320,7 @@
         "T3": 169462
       },
       "totalMs": 559353,
-      "rank": 31
+      "rank": 32
     },
     {
       "name": "ksauce",
@@ -320,7 +330,7 @@
         "T3": 182710
       },
       "totalMs": 562528,
-      "rank": 32
+      "rank": 33
     },
     {
       "name": "deleteme.txt",
@@ -330,7 +340,7 @@
         "T3": 173676
       },
       "totalMs": 589396,
-      "rank": 33
+      "rank": 34
     },
     {
       "name": "LUV4GOD",
@@ -340,7 +350,7 @@
         "T3": 175966
       },
       "totalMs": 607875,
-      "rank": 34
+      "rank": 35
     },
     {
       "name": "Casperskulls",
@@ -350,7 +360,7 @@
         "T3": 179970
       },
       "totalMs": 608193,
-      "rank": 35
+      "rank": 36
     },
     {
       "name": "BACONFEATURES",
@@ -360,7 +370,7 @@
         "T3": 190336
       },
       "totalMs": 631346,
-      "rank": 36
+      "rank": 37
     },
     {
       "name": "zaMega",
@@ -370,7 +380,7 @@
         "T3": 181463
       },
       "totalMs": 647520,
-      "rank": 37
+      "rank": 38
     },
     {
       "name": "Air_Wolf",
@@ -380,7 +390,7 @@
         "T3": 186074
       },
       "totalMs": 673295,
-      "rank": 38
+      "rank": 39
     },
     {
       "name": "DeLongK",
@@ -390,7 +400,7 @@
         "T3": 253367
       },
       "totalMs": 712928,
-      "rank": 39
+      "rank": 40
     },
     {
       "name": "Selector504",
@@ -400,7 +410,7 @@
         "T3": 187670
       },
       "totalMs": 720019,
-      "rank": 40
+      "rank": 41
     },
     {
       "name": "Bodie",
@@ -410,7 +420,7 @@
         "T3": 187162
       },
       "totalMs": 721402,
-      "rank": 41
+      "rank": 42
     },
     {
       "name": "Tasatir_0",
@@ -420,7 +430,7 @@
         "T3": 237656
       },
       "totalMs": 751373,
-      "rank": 42
+      "rank": 43
     }
   ]
 }
