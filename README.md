@@ -2,6 +2,10 @@
 
 Static GitHub Pages scoreboard for the three-track Velocidrone tryouts. The GitHub Action runs every 15 minutes, fetches the three public leaderboard pages, keeps only pilots with a qualifying model and a time on every track, ranks them by combined time, and commits the generated `public/data/scoreboard.json` file.
 
+## Scoreboard
+
+https://cetfor.github.io/weBLEEDfpv-S5-tryouts/
+
 ## Local development
 
 ```bash

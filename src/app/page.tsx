@@ -8,9 +8,21 @@ type Pilot = {
 };
 
 const tracks = [
-  { key: "T1", title: "Tinyhawk" },
-  { key: "T2", title: "Hummingbird RS" },
-  { key: "T3", title: "Cetus Pro" },
+  {
+    key: "T1",
+    title: "Tinyhawk",
+    url: "https://www.velocidrone.com/leaderboard/105/2174/All",
+  },
+  {
+    key: "T2",
+    title: "Hummingbird RS",
+    url: "https://www.velocidrone.com/leaderboard/105/2175/All",
+  },
+  {
+    key: "T3",
+    title: "Cetus Pro",
+    url: "https://www.velocidrone.com/leaderboard/33/2176/All",
+  },
 ];
 
 function formatTime(milliseconds: number) {
@@ -24,7 +36,8 @@ export default function Home() {
       <header className="border-b border-[var(--line)]">
         <div className="mx-auto flex max-w-6xl items-center justify-between px-5 py-6 lg:px-8">
           <div className="display text-xl font-bold tracking-[-0.04em]">
-            weBLEED<span className="text-[var(--orange)]">fpv</span>
+            <span className="text-[var(--orange)]">weBLEED</span>
+            <span className="text-[var(--foreground)]">fpv</span>
           </div>
           <div className="mono text-xs uppercase tracking-[0.16em] text-[#8d9792]">
             Season 05 / Qualifiers
@@ -36,7 +49,7 @@ export default function Home() {
         <div className="mb-8 flex flex-wrap items-end justify-between gap-4">
           <div>
             <p className="mono mb-3 text-xs uppercase tracking-[0.2em] text-[var(--orange)]">
-              Standings
+              Unofficial Standings
             </p>
             <h1 className="display text-5xl font-bold tracking-[-0.06em]">
               Season 5 Qualifier Board
@@ -51,6 +64,26 @@ export default function Home() {
           </p>
         </div>
 
+        <div className="mb-8 max-w-3xl border-l-2 border-[var(--orange)] pl-4 text-sm leading-6 text-[#b6beb9]">
+          A pilot appears on the leaderboard only after recording a time on
+          every track with each required quad model. View the official
+          Velocidrone leaderboards:{" "}
+          {tracks.map((track, index) => (
+            <span key={track.key}>
+              {index > 0 && ", "}
+              <a
+                className="text-[var(--foreground)] underline decoration-[var(--orange)] underline-offset-4 hover:text-[var(--orange)]"
+                href={track.url}
+                rel="noreferrer"
+                target="_blank"
+              >
+                {track.key}
+              </a>
+            </span>
+          ))}
+          .
+        </div>
+
         {pilots.length > 0 ? (
           <div className="overflow-x-auto border border-[var(--line)]">
             <table className="w-full min-w-[760px] border-collapse text-left">
@@ -63,7 +96,14 @@ export default function Home() {
                       key={track.key}
                       className="px-5 py-4 text-right font-normal"
                     >
-                      {track.key} / {track.title}
+                      <a
+                        className="hover:text-[var(--orange)]"
+                        href={track.url}
+                        rel="noreferrer"
+                        target="_blank"
+                      >
+                        {track.key} / {track.title}
+                      </a>
                     </th>
                   ))}
                   <th className="px-5 py-4 text-right font-normal">Total</th>
@@ -103,8 +143,8 @@ export default function Home() {
               First sync pending.
             </div>
             <p className="mx-auto mt-3 max-w-md text-[#8d9792]">
-              The scoreboard will populate when the hourly public leaderboard
-              sync completes.
+              The leaderboard will populate when the 15-minute public
+              leaderboard sync completes.
             </p>
           </div>
         )}
@@ -112,7 +152,7 @@ export default function Home() {
 
       <footer className="border-t border-[var(--line)] px-5 py-6 lg:px-8">
         <div className="mono mx-auto flex max-w-6xl justify-between text-xs uppercase tracking-[0.12em] text-[#8d9792]">
-          <span>weBLEEDfpv / 2026</span>
+          <span>weBLEEDfpv / Season 5 / Unofficial Leaderboard</span>
           <span>All times in seconds</span>
         </div>
       </footer>
