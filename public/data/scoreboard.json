@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T14:50:01.940Z",
+  "generatedAt": "2026-09-18T15:15:50.245Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -303,6 +303,16 @@
       "rank": 30
     },
     {
+      "name": "SteadyTrekker",
+      "times": {
+        "T1": 208283,
+        "T2": 181608,
+        "T3": 169462
+      },
+      "totalMs": 559353,
+      "rank": 31
+    },
+    {
       "name": "ksauce",
       "times": {
         "T1": 206311,
@@ -310,7 +320,7 @@
         "T3": 182710
       },
       "totalMs": 562528,
-      "rank": 31
+      "rank": 32
     },
     {
       "name": "deleteme.txt",
@@ -320,7 +330,7 @@
         "T3": 173676
       },
       "totalMs": 589396,
-      "rank": 32
+      "rank": 33
     },
     {
       "name": "LUV4GOD",
@@ -330,17 +340,17 @@
         "T3": 175966
       },
       "totalMs": 607875,
-      "rank": 33
+      "rank": 34
     },
     {
-      "name": "SteadyTrekker",
+      "name": "Casperskulls",
       "times": {
-        "T1": 208283,
-        "T2": 197807,
-        "T3": 223503
+        "T1": 223782,
+        "T2": 204441,
+        "T3": 179970
       },
-      "totalMs": 629593,
-      "rank": 34
+      "totalMs": 608193,
+      "rank": 35
     },
     {
       "name": "BACONFEATURES",
@@ -350,7 +360,7 @@
         "T3": 190336
       },
       "totalMs": 631346,
-      "rank": 35
+      "rank": 36
     },
     {
       "name": "zaMega",
@@ -360,7 +370,7 @@
         "T3": 181463
       },
       "totalMs": 647520,
-      "rank": 36
+      "rank": 37
     },
     {
       "name": "Air_Wolf",
@@ -370,7 +380,7 @@
         "T3": 186074
       },
       "totalMs": 673295,
-      "rank": 37
+      "rank": 38
     },
     {
       "name": "DeLongK",
@@ -380,7 +390,7 @@
         "T3": 253367
       },
       "totalMs": 712928,
-      "rank": 38
+      "rank": 39
     },
     {
       "name": "Selector504",
@@ -390,7 +400,7 @@
         "T3": 187670
       },
       "totalMs": 720019,
-      "rank": 39
+      "rank": 40
     },
     {
       "name": "Bodie",
@@ -400,7 +410,7 @@
         "T3": 187162
       },
       "totalMs": 721402,
-      "rank": 40
+      "rank": 41
     },
     {
       "name": "Tasatir_0",
@@ -410,7 +420,7 @@
         "T3": 237656
       },
       "totalMs": 751373,
-      "rank": 41
+      "rank": 42
     }
   ]
 }
