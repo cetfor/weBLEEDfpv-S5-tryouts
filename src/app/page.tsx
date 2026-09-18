@@ -1,4 +1,5 @@
 import scoreboard from "../../public/data/scoreboard.json";
+import LocalTimestamp from "./local-timestamp";
 
 type Pilot = {
   rank: number;
@@ -56,9 +57,11 @@ export default function Home() {
             </h1>
           </div>
           <p className="mono text-right text-xs text-[#8d9792]">
-            {scoreboard.generatedAt === ""
-              ? "Awaiting sync"
-              : `Updated ${new Date(scoreboard.generatedAt).toLocaleString()}`}
+            {scoreboard.generatedAt === "" ? (
+              "Awaiting sync"
+            ) : (
+              <LocalTimestamp timestamp={scoreboard.generatedAt} />
+            )}
             <br />
             Times shown in seconds
           </p>
