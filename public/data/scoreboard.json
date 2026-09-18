@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T21:37:44.531Z",
+  "generatedAt": "2026-09-18T21:49:55.466Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -93,6 +93,16 @@
       "rank": 9
     },
     {
+      "name": "TMAD",
+      "times": {
+        "T1": 159825,
+        "T2": 124248,
+        "T3": 138817
+      },
+      "totalMs": 422890,
+      "rank": 10
+    },
+    {
       "name": "FulcrumFPV",
       "times": {
         "T1": 144632,
@@ -100,16 +110,6 @@
         "T3": 137391
       },
       "totalMs": 423608,
-      "rank": 10
-    },
-    {
-      "name": "TMAD",
-      "times": {
-        "T1": 159825,
-        "T2": 126507,
-        "T3": 138817
-      },
-      "totalMs": 425149,
       "rank": 11
     },
     {
@@ -293,6 +293,16 @@
       "rank": 29
     },
     {
+      "name": "burnerXIII",
+      "times": {
+        "T1": 204118,
+        "T2": 163869,
+        "T3": 160577
+      },
+      "totalMs": 528564,
+      "rank": 30
+    },
+    {
       "name": "xer ‎",
       "times": {
         "T1": 176908,
@@ -300,7 +310,7 @@
         "T3": 209877
       },
       "totalMs": 534716,
-      "rank": 30
+      "rank": 31
     },
     {
       "name": "h0pefpv",
@@ -310,7 +320,7 @@
         "T3": 164629
       },
       "totalMs": 535595,
-      "rank": 31
+      "rank": 32
     },
     {
       "name": "SteadyTrekker",
@@ -320,16 +330,6 @@
         "T3": 155356
       },
       "totalMs": 538368,
-      "rank": 32
-    },
-    {
-      "name": "burnerXIII",
-      "times": {
-        "T1": 204118,
-        "T2": 163869,
-        "T3": 177689
-      },
-      "totalMs": 545676,
       "rank": 33
     },
     {
