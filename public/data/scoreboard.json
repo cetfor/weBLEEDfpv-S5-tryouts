@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T15:38:22.962Z",
+  "generatedAt": "2026-09-18T15:49:44.536Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -43,6 +43,16 @@
       "rank": 4
     },
     {
+      "name": "Rouxfpv",
+      "times": {
+        "T1": 135937,
+        "T2": 119344,
+        "T3": 134442
+      },
+      "totalMs": 389723,
+      "rank": 5
+    },
+    {
       "name": "Hotspur",
       "times": {
         "T1": 147536,
@@ -50,16 +60,6 @@
         "T3": 129781
       },
       "totalMs": 398931,
-      "rank": 5
-    },
-    {
-      "name": "Rouxfpv",
-      "times": {
-        "T1": 135937,
-        "T2": 119344,
-        "T3": 144704
-      },
-      "totalMs": 399985,
       "rank": 6
     },
     {
@@ -335,11 +335,11 @@
     {
       "name": "deleteme.txt",
       "times": {
-        "T1": 226165,
+        "T1": 213926,
         "T2": 189555,
         "T3": 173676
       },
-      "totalMs": 589396,
+      "totalMs": 577157,
       "rank": 34
     },
     {
