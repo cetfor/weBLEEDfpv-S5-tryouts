@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T14:39:23.924Z",
+  "generatedAt": "2026-09-18T14:50:01.940Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -53,6 +53,16 @@
       "rank": 5
     },
     {
+      "name": "Fife Flyer",
+      "times": {
+        "T1": 146660,
+        "T2": 120069,
+        "T3": 134882
+      },
+      "totalMs": 401611,
+      "rank": 6
+    },
+    {
       "name": "heaVeNLy_SD",
       "times": {
         "T1": 140747,
@@ -60,7 +70,7 @@
         "T3": 137023
       },
       "totalMs": 402395,
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "Giddy Gimbals",
@@ -70,7 +80,7 @@
         "T3": 131335
       },
       "totalMs": 409241,
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "FulcrumFPV",
@@ -80,7 +90,7 @@
         "T3": 137391
       },
       "totalMs": 423608,
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "_-Crimson-_",
@@ -90,7 +100,7 @@
         "T3": 138679
       },
       "totalMs": 428539,
-      "rank": 9
+      "rank": 10
     },
     {
       "name": "TMAD",
@@ -100,7 +110,7 @@
         "T3": 138817
       },
       "totalMs": 436531,
-      "rank": 10
+      "rank": 11
     },
     {
       "name": "PacoFPV (Beta Tester)",
@@ -110,7 +120,7 @@
         "T3": 124428
       },
       "totalMs": 439760,
-      "rank": 11
+      "rank": 12
     },
     {
       "name": "paszkevi4",
@@ -120,7 +130,7 @@
         "T3": 145263
       },
       "totalMs": 442056,
-      "rank": 12
+      "rank": 13
     },
     {
       "name": "OGdrLove",
@@ -130,7 +140,7 @@
         "T3": 137469
       },
       "totalMs": 447846,
-      "rank": 13
+      "rank": 14
     },
     {
       "name": "j4y",
@@ -140,7 +150,7 @@
         "T3": 136926
       },
       "totalMs": 448050,
-      "rank": 14
+      "rank": 15
     },
     {
       "name": "Perc.FPV",
@@ -150,7 +160,7 @@
         "T3": 149505
       },
       "totalMs": 454403,
-      "rank": 15
+      "rank": 16
     },
     {
       "name": "Shark__fpv",
@@ -160,7 +170,7 @@
         "T3": 156906
       },
       "totalMs": 455677,
-      "rank": 16
+      "rank": 17
     },
     {
       "name": "Wheelman1",
@@ -170,7 +180,7 @@
         "T3": 143349
       },
       "totalMs": 460167,
-      "rank": 17
+      "rank": 18
     },
     {
       "name": "Kbar",
@@ -180,7 +190,7 @@
         "T3": 141039
       },
       "totalMs": 469088,
-      "rank": 18
+      "rank": 19
     },
     {
       "name": "OmegaZenon",
@@ -190,7 +200,7 @@
         "T3": 159869
       },
       "totalMs": 470358,
-      "rank": 19
+      "rank": 20
     },
     {
       "name": "Royden99",
@@ -200,7 +210,7 @@
         "T3": 153802
       },
       "totalMs": 477764,
-      "rank": 20
+      "rank": 21
     },
     {
       "name": "Bam_",
@@ -210,7 +220,7 @@
         "T3": 193676
       },
       "totalMs": 478126,
-      "rank": 21
+      "rank": 22
     },
     {
       "name": "FPVRossco",
@@ -220,16 +230,6 @@
         "T3": 152171
       },
       "totalMs": 478277,
-      "rank": 22
-    },
-    {
-      "name": "Fife Flyer",
-      "times": {
-        "T1": 146660,
-        "T2": 120069,
-        "T3": 214607
-      },
-      "totalMs": 481336,
       "rank": 23
     },
     {
@@ -333,6 +333,16 @@
       "rank": 33
     },
     {
+      "name": "SteadyTrekker",
+      "times": {
+        "T1": 208283,
+        "T2": 197807,
+        "T3": 223503
+      },
+      "totalMs": 629593,
+      "rank": 34
+    },
+    {
       "name": "BACONFEATURES",
       "times": {
         "T1": 226049,
@@ -340,7 +350,7 @@
         "T3": 190336
       },
       "totalMs": 631346,
-      "rank": 34
+      "rank": 35
     },
     {
       "name": "zaMega",
@@ -350,16 +360,6 @@
         "T3": 181463
       },
       "totalMs": 647520,
-      "rank": 35
-    },
-    {
-      "name": "SteadyTrekker",
-      "times": {
-        "T1": 227542,
-        "T2": 208127,
-        "T3": 223503
-      },
-      "totalMs": 659172,
       "rank": 36
     },
     {
