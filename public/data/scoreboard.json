@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T22:38:52.176Z",
+  "generatedAt": "2026-09-18T22:51:05.345Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -83,6 +83,16 @@
       "rank": 8
     },
     {
+      "name": "MrMan",
+      "times": {
+        "T1": 142144,
+        "T2": 116232,
+        "T3": 144202
+      },
+      "totalMs": 402578,
+      "rank": 9
+    },
+    {
       "name": "Giddy Gimbals",
       "times": {
         "T1": 150606,
@@ -90,16 +100,6 @@
         "T3": 131335
       },
       "totalMs": 409241,
-      "rank": 9
-    },
-    {
-      "name": "MrMan",
-      "times": {
-        "T1": 149351,
-        "T2": 116232,
-        "T3": 144202
-      },
-      "totalMs": 409785,
       "rank": 10
     },
     {
@@ -227,9 +227,9 @@
       "times": {
         "T1": 170731,
         "T2": 153231,
-        "T3": 153802
+        "T3": 151532
       },
-      "totalMs": 477764,
+      "totalMs": 475494,
       "rank": 23
     },
     {
