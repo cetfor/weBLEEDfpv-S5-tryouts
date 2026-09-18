@@ -1,0 +1,6 @@
+{
+  "localIP": "192.168.4.29",
+  "port": 60003,
+  "path": "/velocidrone",
+  "heartbeatIntervalMs": 10000
+}

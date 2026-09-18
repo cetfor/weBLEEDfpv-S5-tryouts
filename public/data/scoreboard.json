@@ -1,0 +1,396 @@
+{
+  "generatedAt": "2026-09-18T12:13:56.023Z",
+  "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
+  "pilots": [
+    {
+      "name": "Raimon Shaigne (Beta Tester)",
+      "times": {
+        "T1": 119361,
+        "T2": 103774,
+        "T3": 115758
+      },
+      "totalMs": 338893,
+      "rank": 1
+    },
+    {
+      "name": "AyyyKayyy (Beta Tester)",
+      "times": {
+        "T1": 129323,
+        "T2": 113042,
+        "T3": 120304
+      },
+      "totalMs": 362669,
+      "rank": 2
+    },
+    {
+      "name": "Stephanao",
+      "times": {
+        "T1": 137008,
+        "T2": 117811,
+        "T3": 132078
+      },
+      "totalMs": 386897,
+      "rank": 3
+    },
+    {
+      "name": "MonsterDuke",
+      "times": {
+        "T1": 133235,
+        "T2": 110927,
+        "T3": 144249
+      },
+      "totalMs": 388411,
+      "rank": 4
+    },
+    {
+      "name": "Hotspur",
+      "times": {
+        "T1": 147536,
+        "T2": 121614,
+        "T3": 129781
+      },
+      "totalMs": 398931,
+      "rank": 5
+    },
+    {
+      "name": "heaVeNLy_SD",
+      "times": {
+        "T1": 140747,
+        "T2": 124625,
+        "T3": 137023
+      },
+      "totalMs": 402395,
+      "rank": 6
+    },
+    {
+      "name": "Giddy Gimbals",
+      "times": {
+        "T1": 150606,
+        "T2": 127300,
+        "T3": 131335
+      },
+      "totalMs": 409241,
+      "rank": 7
+    },
+    {
+      "name": "FulcrumFPV",
+      "times": {
+        "T1": 144632,
+        "T2": 141585,
+        "T3": 137391
+      },
+      "totalMs": 423608,
+      "rank": 8
+    },
+    {
+      "name": "_-Crimson-_",
+      "times": {
+        "T1": 161171,
+        "T2": 128689,
+        "T3": 138679
+      },
+      "totalMs": 428539,
+      "rank": 9
+    },
+    {
+      "name": "TMAD",
+      "times": {
+        "T1": 159825,
+        "T2": 137889,
+        "T3": 138817
+      },
+      "totalMs": 436531,
+      "rank": 10
+    },
+    {
+      "name": "PacoFPV (Beta Tester)",
+      "times": {
+        "T1": 165165,
+        "T2": 150167,
+        "T3": 124428
+      },
+      "totalMs": 439760,
+      "rank": 11
+    },
+    {
+      "name": "paszkevi4",
+      "times": {
+        "T1": 153394,
+        "T2": 143399,
+        "T3": 145263
+      },
+      "totalMs": 442056,
+      "rank": 12
+    },
+    {
+      "name": "OGdrLove",
+      "times": {
+        "T1": 164018,
+        "T2": 146359,
+        "T3": 137469
+      },
+      "totalMs": 447846,
+      "rank": 13
+    },
+    {
+      "name": "j4y",
+      "times": {
+        "T1": 174447,
+        "T2": 136677,
+        "T3": 136926
+      },
+      "totalMs": 448050,
+      "rank": 14
+    },
+    {
+      "name": "Perc.FPV",
+      "times": {
+        "T1": 170600,
+        "T2": 134298,
+        "T3": 149505
+      },
+      "totalMs": 454403,
+      "rank": 15
+    },
+    {
+      "name": "Shark__fpv",
+      "times": {
+        "T1": 139007,
+        "T2": 159764,
+        "T3": 156906
+      },
+      "totalMs": 455677,
+      "rank": 16
+    },
+    {
+      "name": "Wheelman1",
+      "times": {
+        "T1": 171899,
+        "T2": 144919,
+        "T3": 143349
+      },
+      "totalMs": 460167,
+      "rank": 17
+    },
+    {
+      "name": "OmegaZenon",
+      "times": {
+        "T1": 179422,
+        "T2": 131067,
+        "T3": 159869
+      },
+      "totalMs": 470358,
+      "rank": 18
+    },
+    {
+      "name": "Royden99",
+      "times": {
+        "T1": 170731,
+        "T2": 153231,
+        "T3": 153802
+      },
+      "totalMs": 477764,
+      "rank": 19
+    },
+    {
+      "name": "FPVRossco",
+      "times": {
+        "T1": 179411,
+        "T2": 146695,
+        "T3": 152171
+      },
+      "totalMs": 478277,
+      "rank": 20
+    },
+    {
+      "name": "-Zip-",
+      "times": {
+        "T1": 180755,
+        "T2": 145412,
+        "T3": 161780
+      },
+      "totalMs": 487947,
+      "rank": 21
+    },
+    {
+      "name": "Kbar",
+      "times": {
+        "T1": 188329,
+        "T2": 161290,
+        "T3": 141039
+      },
+      "totalMs": 490658,
+      "rank": 22
+    },
+    {
+      "name": "FakeitFPV",
+      "times": {
+        "T1": 177246,
+        "T2": 165910,
+        "T3": 152972
+      },
+      "totalMs": 496128,
+      "rank": 23
+    },
+    {
+      "name": "_ZAR_",
+      "times": {
+        "T1": 194852,
+        "T2": 155977,
+        "T3": 153760
+      },
+      "totalMs": 504589,
+      "rank": 24
+    },
+    {
+      "name": "Fastodon",
+      "times": {
+        "T1": 202500,
+        "T2": 161188,
+        "T3": 147660
+      },
+      "totalMs": 511348,
+      "rank": 25
+    },
+    {
+      "name": "Trooper_fpv",
+      "times": {
+        "T1": 201940,
+        "T2": 159500,
+        "T3": 157453
+      },
+      "totalMs": 518893,
+      "rank": 26
+    },
+    {
+      "name": "xer ‎",
+      "times": {
+        "T1": 176908,
+        "T2": 147931,
+        "T3": 209877
+      },
+      "totalMs": 534716,
+      "rank": 27
+    },
+    {
+      "name": "h0pefpv",
+      "times": {
+        "T1": 200017,
+        "T2": 171942,
+        "T3": 164629
+      },
+      "totalMs": 536588,
+      "rank": 28
+    },
+    {
+      "name": "ksauce",
+      "times": {
+        "T1": 206311,
+        "T2": 173507,
+        "T3": 182710
+      },
+      "totalMs": 562528,
+      "rank": 29
+    },
+    {
+      "name": "deleteme.txt",
+      "times": {
+        "T1": 226165,
+        "T2": 189555,
+        "T3": 173676
+      },
+      "totalMs": 589396,
+      "rank": 30
+    },
+    {
+      "name": "LUV4GOD",
+      "times": {
+        "T1": 259740,
+        "T2": 172169,
+        "T3": 175966
+      },
+      "totalMs": 607875,
+      "rank": 31
+    },
+    {
+      "name": "BACONFEATURES",
+      "times": {
+        "T1": 226049,
+        "T2": 214961,
+        "T3": 190336
+      },
+      "totalMs": 631346,
+      "rank": 32
+    },
+    {
+      "name": "zaMega",
+      "times": {
+        "T1": 245704,
+        "T2": 220353,
+        "T3": 181463
+      },
+      "totalMs": 647520,
+      "rank": 33
+    },
+    {
+      "name": "SteadyTrekker",
+      "times": {
+        "T1": 227542,
+        "T2": 208127,
+        "T3": 223503
+      },
+      "totalMs": 659172,
+      "rank": 34
+    },
+    {
+      "name": "Air_Wolf",
+      "times": {
+        "T1": 262728,
+        "T2": 224493,
+        "T3": 186074
+      },
+      "totalMs": 673295,
+      "rank": 35
+    },
+    {
+      "name": "DeLongK",
+      "times": {
+        "T1": 229097,
+        "T2": 230464,
+        "T3": 253367
+      },
+      "totalMs": 712928,
+      "rank": 36
+    },
+    {
+      "name": "Selector504",
+      "times": {
+        "T1": 217232,
+        "T2": 315117,
+        "T3": 187670
+      },
+      "totalMs": 720019,
+      "rank": 37
+    },
+    {
+      "name": "Bodie",
+      "times": {
+        "T1": 351915,
+        "T2": 182325,
+        "T3": 187162
+      },
+      "totalMs": 721402,
+      "rank": 38
+    },
+    {
+      "name": "Tasatir_0",
+      "times": {
+        "T1": 257061,
+        "T2": 256656,
+        "T3": 237656
+      },
+      "totalMs": 751373,
+      "rank": 39
+    }
+  ]
+}
