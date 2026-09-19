@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T14:49:44.957Z",
+  "generatedAt": "2026-09-19T15:13:30.581Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -155,11 +155,11 @@
     {
       "name": "PacoFPV (Beta Tester)",
       "times": {
-        "T1": 165165,
+        "T1": 155366,
         "T2": 150167,
         "T3": 124428
       },
-      "totalMs": 439760,
+      "totalMs": 429961,
       "rank": 16
     },
     {
