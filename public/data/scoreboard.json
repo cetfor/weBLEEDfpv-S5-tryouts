@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T07:50:02.689Z",
+  "generatedAt": "2026-09-19T08:20:25.248Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -83,6 +83,16 @@
       "rank": 8
     },
     {
+      "name": "Anemon",
+      "times": {
+        "T1": 151937,
+        "T2": 119227,
+        "T3": 130233
+      },
+      "totalMs": 401397,
+      "rank": 9
+    },
+    {
       "name": "Fife Flyer",
       "times": {
         "T1": 146660,
@@ -90,7 +100,7 @@
         "T3": 134882
       },
       "totalMs": 401611,
-      "rank": 9
+      "rank": 10
     },
     {
       "name": "heaVeNLy_SD",
@@ -100,7 +110,7 @@
         "T3": 137023
       },
       "totalMs": 402395,
-      "rank": 10
+      "rank": 11
     },
     {
       "name": "Giddy Gimbals",
@@ -110,16 +120,6 @@
         "T3": 131335
       },
       "totalMs": 409241,
-      "rank": 11
-    },
-    {
-      "name": "Anemon",
-      "times": {
-        "T1": 151937,
-        "T2": 119227,
-        "T3": 138152
-      },
-      "totalMs": 409316,
       "rank": 12
     },
     {
