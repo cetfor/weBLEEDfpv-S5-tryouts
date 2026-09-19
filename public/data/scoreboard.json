@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T01:35:00.299Z",
+  "generatedAt": "2026-09-19T01:55:34.260Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -243,6 +243,16 @@
       "rank": 24
     },
     {
+      "name": "GeekBench",
+      "times": {
+        "T1": 178546,
+        "T2": 150102,
+        "T3": 149608
+      },
+      "totalMs": 478256,
+      "rank": 25
+    },
+    {
       "name": "FPVRossco",
       "times": {
         "T1": 179411,
@@ -250,7 +260,7 @@
         "T3": 152171
       },
       "totalMs": 478277,
-      "rank": 25
+      "rank": 26
     },
     {
       "name": "-Zip-",
@@ -260,7 +270,7 @@
         "T3": 161780
       },
       "totalMs": 487947,
-      "rank": 26
+      "rank": 27
     },
     {
       "name": "FakeitFPV",
@@ -270,7 +280,7 @@
         "T3": 152972
       },
       "totalMs": 496128,
-      "rank": 27
+      "rank": 28
     },
     {
       "name": "_ZAR_",
@@ -280,7 +290,7 @@
         "T3": 146363
       },
       "totalMs": 497192,
-      "rank": 28
+      "rank": 29
     },
     {
       "name": "burnerXIII",
@@ -290,16 +300,6 @@
         "T3": 155568
       },
       "totalMs": 499787,
-      "rank": 29
-    },
-    {
-      "name": "GeekBench",
-      "times": {
-        "T1": 178546,
-        "T2": 150102,
-        "T3": 180872
-      },
-      "totalMs": 509520,
       "rank": 30
     },
     {
@@ -323,6 +323,16 @@
       "rank": 32
     },
     {
+      "name": "SteadyTrekker",
+      "times": {
+        "T1": 189034,
+        "T2": 174729,
+        "T3": 155356
+      },
+      "totalMs": 519119,
+      "rank": 33
+    },
+    {
       "name": "xer ‎",
       "times": {
         "T1": 176908,
@@ -330,7 +340,7 @@
         "T3": 209877
       },
       "totalMs": 534716,
-      "rank": 33
+      "rank": 34
     },
     {
       "name": "h0pefpv",
@@ -340,16 +350,6 @@
         "T3": 164629
       },
       "totalMs": 535595,
-      "rank": 34
-    },
-    {
-      "name": "SteadyTrekker",
-      "times": {
-        "T1": 208283,
-        "T2": 174729,
-        "T3": 155356
-      },
-      "totalMs": 538368,
       "rank": 35
     },
     {
