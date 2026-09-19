@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T05:37:41.924Z",
+  "generatedAt": "2026-09-19T05:49:58.224Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -45,11 +45,11 @@
     {
       "name": "Rouxfpv",
       "times": {
-        "T1": 135937,
+        "T1": 135192,
         "T2": 119344,
         "T3": 128566
       },
-      "totalMs": 383847,
+      "totalMs": 383102,
       "rank": 5
     },
     {
