@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T01:55:34.260Z",
+  "generatedAt": "2026-09-19T02:24:41.234Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -223,6 +223,16 @@
       "rank": 22
     },
     {
+      "name": "GeekBench",
+      "times": {
+        "T1": 178546,
+        "T2": 150102,
+        "T3": 144990
+      },
+      "totalMs": 473638,
+      "rank": 23
+    },
+    {
       "name": "Royden99",
       "times": {
         "T1": 170731,
@@ -230,7 +240,7 @@
         "T3": 151532
       },
       "totalMs": 475494,
-      "rank": 23
+      "rank": 24
     },
     {
       "name": "Bam_",
@@ -240,16 +250,6 @@
         "T3": 193676
       },
       "totalMs": 478126,
-      "rank": 24
-    },
-    {
-      "name": "GeekBench",
-      "times": {
-        "T1": 178546,
-        "T2": 150102,
-        "T3": 149608
-      },
-      "totalMs": 478256,
       "rank": 25
     },
     {
@@ -313,6 +313,16 @@
       "rank": 31
     },
     {
+      "name": "SteadyTrekker",
+      "times": {
+        "T1": 189034,
+        "T2": 167381,
+        "T3": 155356
+      },
+      "totalMs": 511771,
+      "rank": 32
+    },
+    {
       "name": "Trooper_fpv",
       "times": {
         "T1": 201940,
@@ -320,16 +330,6 @@
         "T3": 157453
       },
       "totalMs": 518893,
-      "rank": 32
-    },
-    {
-      "name": "SteadyTrekker",
-      "times": {
-        "T1": 189034,
-        "T2": 174729,
-        "T3": 155356
-      },
-      "totalMs": 519119,
       "rank": 33
     },
     {
