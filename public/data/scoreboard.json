@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T07:37:48.708Z",
+  "generatedAt": "2026-09-19T07:50:02.689Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -113,6 +113,16 @@
       "rank": 11
     },
     {
+      "name": "Anemon",
+      "times": {
+        "T1": 151937,
+        "T2": 119227,
+        "T3": 138152
+      },
+      "totalMs": 409316,
+      "rank": 12
+    },
+    {
       "name": "TMAD",
       "times": {
         "T1": 159825,
@@ -120,7 +130,7 @@
         "T3": 138817
       },
       "totalMs": 421263,
-      "rank": 12
+      "rank": 13
     },
     {
       "name": "FulcrumFPV",
@@ -130,16 +140,6 @@
         "T3": 137391
       },
       "totalMs": 423608,
-      "rank": 13
-    },
-    {
-      "name": "Anemon",
-      "times": {
-        "T1": 151937,
-        "T2": 119227,
-        "T3": 154111
-      },
-      "totalMs": 425275,
       "rank": 14
     },
     {
