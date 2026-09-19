@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-19T18:17:41.897Z",
+  "generatedAt": "2026-09-19T18:39:07.828Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
       "name": "Raimon Shaigne (Beta Tester)",
       "times": {
         "T1": 118144,
-        "T2": 102393,
+        "T2": 101687,
         "T3": 115758
       },
-      "totalMs": 336295,
+      "totalMs": 335589,
       "rank": 1
     },
     {
@@ -167,9 +167,9 @@
       "times": {
         "T1": 158727,
         "T2": 136746,
-        "T3": 145519
+        "T3": 143361
       },
-      "totalMs": 440992,
+      "totalMs": 438834,
       "rank": 17
     },
     {
@@ -365,11 +365,11 @@
     {
       "name": "h0pefpv",
       "times": {
-        "T1": 198923,
+        "T1": 185294,
         "T2": 169530,
         "T3": 164629
       },
-      "totalMs": 533082,
+      "totalMs": 519453,
       "rank": 37
     },
     {
