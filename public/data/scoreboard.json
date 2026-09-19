@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-19T14:38:01.548Z",
+  "generatedAt": "2026-09-19T14:49:44.957Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
       "name": "Raimon Shaigne (Beta Tester)",
       "times": {
-        "T1": 119361,
+        "T1": 118144,
         "T2": 103774,
         "T3": 115758
       },
-      "totalMs": 338893,
+      "totalMs": 337676,
       "rank": 1
     },
     {
