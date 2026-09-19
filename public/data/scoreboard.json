@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T22:49:51.074Z",
+  "generatedAt": "2026-09-19T23:13:07.633Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -317,9 +317,9 @@
       "times": {
         "T1": 177769,
         "T2": 157932,
-        "T3": 152031
+        "T3": 151661
       },
-      "totalMs": 487732,
+      "totalMs": 487362,
       "rank": 32
     },
     {
