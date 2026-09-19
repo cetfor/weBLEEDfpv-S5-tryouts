@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-19T21:25:09.325Z",
+  "generatedAt": "2026-09-19T21:36:44.754Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
       "name": "Raimon Shaigne (Beta Tester)",
       "times": {
         "T1": 118144,
-        "T2": 101687,
+        "T2": 101171,
         "T3": 110939
       },
-      "totalMs": 330770,
+      "totalMs": 330254,
       "rank": 1
     },
     {
@@ -113,6 +113,16 @@
       "rank": 11
     },
     {
+      "name": "Giddy Gimbals",
+      "times": {
+        "T1": 145746,
+        "T2": 127300,
+        "T3": 128919
+      },
+      "totalMs": 401965,
+      "rank": 12
+    },
+    {
       "name": "heaVeNLy_SD",
       "times": {
         "T1": 140747,
@@ -120,16 +130,6 @@
         "T3": 137023
       },
       "totalMs": 402395,
-      "rank": 12
-    },
-    {
-      "name": "Giddy Gimbals",
-      "times": {
-        "T1": 145746,
-        "T2": 127300,
-        "T3": 130674
-      },
-      "totalMs": 403720,
       "rank": 13
     },
     {
@@ -333,6 +333,16 @@
       "rank": 33
     },
     {
+      "name": "Hypnos FPV",
+      "times": {
+        "T1": 177769,
+        "T2": 160923,
+        "T3": 165409
+      },
+      "totalMs": 504101,
+      "rank": 34
+    },
+    {
       "name": "Fastodon",
       "times": {
         "T1": 202500,
@@ -340,7 +350,7 @@
         "T3": 147660
       },
       "totalMs": 511348,
-      "rank": 34
+      "rank": 35
     },
     {
       "name": "SteadyTrekker",
@@ -350,16 +360,6 @@
         "T3": 155356
       },
       "totalMs": 511771,
-      "rank": 35
-    },
-    {
-      "name": "Hypnos FPV",
-      "times": {
-        "T1": 177769,
-        "T2": 160923,
-        "T3": 176419
-      },
-      "totalMs": 515111,
       "rank": 36
     },
     {
