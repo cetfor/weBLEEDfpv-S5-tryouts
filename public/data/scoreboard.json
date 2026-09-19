@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T11:12:59.151Z",
+  "generatedAt": "2026-09-19T11:24:25.705Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -203,6 +203,16 @@
       "rank": 20
     },
     {
+      "name": "stasyan1339",
+      "times": {
+        "T1": 158727,
+        "T2": 146517,
+        "T3": 145519
+      },
+      "totalMs": 450763,
+      "rank": 21
+    },
+    {
       "name": "Perc.FPV",
       "times": {
         "T1": 170600,
@@ -210,7 +220,7 @@
         "T3": 149505
       },
       "totalMs": 454403,
-      "rank": 21
+      "rank": 22
     },
     {
       "name": "Shark__fpv",
@@ -220,7 +230,7 @@
         "T3": 156906
       },
       "totalMs": 455677,
-      "rank": 22
+      "rank": 23
     },
     {
       "name": "Wheelman1",
@@ -230,7 +240,7 @@
         "T3": 143349
       },
       "totalMs": 460167,
-      "rank": 23
+      "rank": 24
     },
     {
       "name": "OmegaZenon",
@@ -240,7 +250,7 @@
         "T3": 159869
       },
       "totalMs": 470358,
-      "rank": 24
+      "rank": 25
     },
     {
       "name": "GeekBench",
@@ -250,7 +260,7 @@
         "T3": 144990
       },
       "totalMs": 473638,
-      "rank": 25
+      "rank": 26
     },
     {
       "name": "Royden99",
@@ -260,7 +270,7 @@
         "T3": 151532
       },
       "totalMs": 475494,
-      "rank": 26
+      "rank": 27
     },
     {
       "name": "Bam_",
@@ -270,7 +280,7 @@
         "T3": 193676
       },
       "totalMs": 478126,
-      "rank": 27
+      "rank": 28
     },
     {
       "name": "FPVRossco",
@@ -280,7 +290,7 @@
         "T3": 152171
       },
       "totalMs": 478277,
-      "rank": 28
+      "rank": 29
     },
     {
       "name": "-Zip-",
@@ -290,7 +300,7 @@
         "T3": 161780
       },
       "totalMs": 487947,
-      "rank": 29
+      "rank": 30
     },
     {
       "name": "FakeitFPV",
@@ -300,7 +310,7 @@
         "T3": 152972
       },
       "totalMs": 496128,
-      "rank": 30
+      "rank": 31
     },
     {
       "name": "_ZAR_",
@@ -310,7 +320,7 @@
         "T3": 146363
       },
       "totalMs": 497192,
-      "rank": 31
+      "rank": 32
     },
     {
       "name": "burnerXIII",
@@ -320,16 +330,6 @@
         "T3": 155568
       },
       "totalMs": 499787,
-      "rank": 32
-    },
-    {
-      "name": "stasyan1339",
-      "times": {
-        "T1": 158727,
-        "T2": 196014,
-        "T3": 145519
-      },
-      "totalMs": 500260,
       "rank": 33
     },
     {
