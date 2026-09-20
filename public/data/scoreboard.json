@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T07:17:12.495Z",
+  "generatedAt": "2026-09-20T07:38:24.189Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -73,6 +73,16 @@
       "rank": 7
     },
     {
+      "name": "Anemon",
+      "times": {
+        "T1": 144911,
+        "T2": 119227,
+        "T3": 128462
+      },
+      "totalMs": 392600,
+      "rank": 8
+    },
+    {
       "name": "MrMan",
       "times": {
         "T1": 134865,
@@ -80,7 +90,7 @@
         "T3": 144202
       },
       "totalMs": 395299,
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "Hotspur",
@@ -90,16 +100,6 @@
         "T3": 129781
       },
       "totalMs": 398931,
-      "rank": 9
-    },
-    {
-      "name": "Anemon",
-      "times": {
-        "T1": 151937,
-        "T2": 119227,
-        "T3": 128462
-      },
-      "totalMs": 399626,
       "rank": 10
     },
     {
