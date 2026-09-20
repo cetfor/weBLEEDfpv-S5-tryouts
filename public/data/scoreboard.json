@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T17:12:57.558Z",
+  "generatedAt": "2026-09-20T17:24:29.556Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -213,6 +213,16 @@
       "rank": 21
     },
     {
+      "name": "FPVRossco",
+      "times": {
+        "T1": 164200,
+        "T2": 140619,
+        "T3": 140381
+      },
+      "totalMs": 445200,
+      "rank": 22
+    },
+    {
       "name": "OGdrLove",
       "times": {
         "T1": 164018,
@@ -220,7 +230,7 @@
         "T3": 137469
       },
       "totalMs": 447846,
-      "rank": 22
+      "rank": 23
     },
     {
       "name": "j4y",
@@ -230,16 +240,6 @@
         "T3": 136926
       },
       "totalMs": 448050,
-      "rank": 23
-    },
-    {
-      "name": "FPVRossco",
-      "times": {
-        "T1": 164200,
-        "T2": 140619,
-        "T3": 143476
-      },
-      "totalMs": 448295,
       "rank": 24
     },
     {
@@ -303,6 +303,16 @@
       "rank": 30
     },
     {
+      "name": "Hypnos FPV",
+      "times": {
+        "T1": 177769,
+        "T2": 157932,
+        "T3": 135084
+      },
+      "totalMs": 470785,
+      "rank": 31
+    },
+    {
       "name": "GeekBench",
       "times": {
         "T1": 176913,
@@ -310,7 +320,7 @@
         "T3": 144990
       },
       "totalMs": 472005,
-      "rank": 31
+      "rank": 32
     },
     {
       "name": "Bam_",
@@ -320,16 +330,6 @@
         "T3": 193676
       },
       "totalMs": 478126,
-      "rank": 32
-    },
-    {
-      "name": "Hypnos FPV",
-      "times": {
-        "T1": 177769,
-        "T2": 157932,
-        "T3": 142876
-      },
-      "totalMs": 478577,
       "rank": 33
     },
     {
