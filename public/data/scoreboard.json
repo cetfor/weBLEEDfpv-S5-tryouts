@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T10:27:26.678Z",
+  "generatedAt": "2026-09-20T10:38:58.453Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -113,6 +113,16 @@
       "rank": 11
     },
     {
+      "name": "JovillsFPV",
+      "times": {
+        "T1": 150128,
+        "T2": 120009,
+        "T3": 129981
+      },
+      "totalMs": 400118,
+      "rank": 12
+    },
+    {
       "name": "Giddy Gimbals",
       "times": {
         "T1": 145746,
@@ -120,7 +130,7 @@
         "T3": 127208
       },
       "totalMs": 400254,
-      "rank": 12
+      "rank": 13
     },
     {
       "name": "Fife Flyer",
@@ -130,7 +140,7 @@
         "T3": 134882
       },
       "totalMs": 401611,
-      "rank": 13
+      "rank": 14
     },
     {
       "name": "heaVeNLy_SD",
@@ -140,7 +150,7 @@
         "T3": 137023
       },
       "totalMs": 402395,
-      "rank": 14
+      "rank": 15
     },
     {
       "name": "TMAD",
@@ -150,7 +160,7 @@
         "T3": 138817
       },
       "totalMs": 413698,
-      "rank": 15
+      "rank": 16
     },
     {
       "name": "Dinglez",
@@ -160,7 +170,7 @@
         "T3": 135435
       },
       "totalMs": 419754,
-      "rank": 16
+      "rank": 17
     },
     {
       "name": "FulcrumFPV",
@@ -170,7 +180,7 @@
         "T3": 137391
       },
       "totalMs": 423608,
-      "rank": 17
+      "rank": 18
     },
     {
       "name": "_-Crimson-_",
@@ -180,7 +190,7 @@
         "T3": 138679
       },
       "totalMs": 428539,
-      "rank": 18
+      "rank": 19
     },
     {
       "name": "stasyan1339",
@@ -190,7 +200,7 @@
         "T3": 142319
       },
       "totalMs": 437792,
-      "rank": 19
+      "rank": 20
     },
     {
       "name": "paszkevi4",
@@ -200,7 +210,7 @@
         "T3": 145263
       },
       "totalMs": 442056,
-      "rank": 20
+      "rank": 21
     },
     {
       "name": "OGdrLove",
@@ -210,7 +220,7 @@
         "T3": 137469
       },
       "totalMs": 447846,
-      "rank": 21
+      "rank": 22
     },
     {
       "name": "j4y",
@@ -220,7 +230,7 @@
         "T3": 136926
       },
       "totalMs": 448050,
-      "rank": 22
+      "rank": 23
     },
     {
       "name": "FPVRossco",
@@ -230,7 +240,7 @@
         "T3": 143476
       },
       "totalMs": 448295,
-      "rank": 23
+      "rank": 24
     },
     {
       "name": "Kbar",
@@ -240,7 +250,7 @@
         "T3": 141039
       },
       "totalMs": 449929,
-      "rank": 24
+      "rank": 25
     },
     {
       "name": "Perc.FPV",
@@ -250,7 +260,7 @@
         "T3": 149505
       },
       "totalMs": 454403,
-      "rank": 25
+      "rank": 26
     },
     {
       "name": "Shark__fpv",
@@ -260,7 +270,7 @@
         "T3": 156906
       },
       "totalMs": 455677,
-      "rank": 26
+      "rank": 27
     },
     {
       "name": "Wheelman1",
@@ -270,16 +280,6 @@
         "T3": 143349
       },
       "totalMs": 460167,
-      "rank": 27
-    },
-    {
-      "name": "JovillsFPV",
-      "times": {
-        "T1": 216597,
-        "T2": 120009,
-        "T3": 129981
-      },
-      "totalMs": 466587,
       "rank": 28
     },
     {
