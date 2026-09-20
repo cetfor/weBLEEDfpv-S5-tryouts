@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T19:37:09.095Z",
+  "generatedAt": "2026-09-20T19:49:51.751Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -23,6 +23,16 @@
       "rank": 2
     },
     {
+      "name": "MonsterDuke",
+      "times": {
+        "T1": 133235,
+        "T2": 108268,
+        "T3": 120263
+      },
+      "totalMs": 361766,
+      "rank": 3
+    },
+    {
       "name": "AyyyKayyy (Beta Tester)",
       "times": {
         "T1": 129323,
@@ -30,16 +40,6 @@
         "T3": 120304
       },
       "totalMs": 362669,
-      "rank": 3
-    },
-    {
-      "name": "MonsterDuke",
-      "times": {
-        "T1": 133235,
-        "T2": 110927,
-        "T3": 120263
-      },
-      "totalMs": 364425,
       "rank": 4
     },
     {
@@ -173,6 +173,16 @@
       "rank": 17
     },
     {
+      "name": "regex",
+      "times": {
+        "T1": 163687,
+        "T2": 122235,
+        "T3": 128827
+      },
+      "totalMs": 414749,
+      "rank": 18
+    },
+    {
       "name": "asiy",
       "times": {
         "T1": 153138,
@@ -180,16 +190,6 @@
         "T3": 145216
       },
       "totalMs": 417673,
-      "rank": 18
-    },
-    {
-      "name": "regex",
-      "times": {
-        "T1": 163687,
-        "T2": 122235,
-        "T3": 132667
-      },
-      "totalMs": 418589,
       "rank": 19
     },
     {
