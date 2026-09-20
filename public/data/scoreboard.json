@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T12:22:59.476Z",
+  "generatedAt": "2026-09-20T12:42:54.086Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -85,11 +85,11 @@
     {
       "name": "JovillsFPV",
       "times": {
-        "T1": 140941,
+        "T1": 137816,
         "T2": 120009,
         "T3": 129981
       },
-      "totalMs": 390931,
+      "totalMs": 387806,
       "rank": 9
     },
     {
