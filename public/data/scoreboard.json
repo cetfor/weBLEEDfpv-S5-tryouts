@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T02:01:13.875Z",
+  "generatedAt": "2026-09-21T02:39:35.359Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -167,9 +167,9 @@
       "times": {
         "T1": 152260,
         "T2": 122621,
-        "T3": 137895
+        "T3": 134391
       },
-      "totalMs": 412776,
+      "totalMs": 409272,
       "rank": 17
     },
     {
@@ -313,6 +313,16 @@
       "rank": 31
     },
     {
+      "name": "Hypnos FPV",
+      "times": {
+        "T1": 169606,
+        "T2": 157932,
+        "T3": 135084
+      },
+      "totalMs": 462622,
+      "rank": 32
+    },
+    {
       "name": "Royden99",
       "times": {
         "T1": 170731,
@@ -320,16 +330,6 @@
         "T3": 143654
       },
       "totalMs": 467616,
-      "rank": 32
-    },
-    {
-      "name": "Hypnos FPV",
-      "times": {
-        "T1": 175053,
-        "T2": 157932,
-        "T3": 135084
-      },
-      "totalMs": 468069,
       "rank": 33
     },
     {
