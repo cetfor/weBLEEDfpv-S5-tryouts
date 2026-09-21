@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T23:27:46.050Z",
+  "generatedAt": "2026-09-21T23:39:35.705Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -43,6 +43,16 @@
       "rank": 4
     },
     {
+      "name": "andre_adams",
+      "times": {
+        "T1": 129609,
+        "T2": 115187,
+        "T3": 131181
+      },
+      "totalMs": 375977,
+      "rank": 5
+    },
+    {
       "name": "Rouxfpv",
       "times": {
         "T1": 132542,
@@ -50,16 +60,6 @@
         "T3": 126145
       },
       "totalMs": 376380,
-      "rank": 5
-    },
-    {
-      "name": "andre_adams",
-      "times": {
-        "T1": 130964,
-        "T2": 115187,
-        "T3": 131181
-      },
-      "totalMs": 377332,
       "rank": 6
     },
     {
