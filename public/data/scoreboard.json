@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T04:21:57.347Z",
+  "generatedAt": "2026-09-21T04:45:20.926Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -195,11 +195,11 @@
     {
       "name": "FulcrumFPV",
       "times": {
-        "T1": 144191,
+        "T1": 140541,
         "T2": 141585,
         "T3": 137391
       },
-      "totalMs": 423167,
+      "totalMs": 419517,
       "rank": 20
     },
     {
