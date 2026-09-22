@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T16:50:50.732Z",
+  "generatedAt": "2026-09-22T17:14:43.583Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -463,6 +463,16 @@
       "rank": 46
     },
     {
+      "name": "BenDaOctopus",
+      "times": {
+        "T1": 169463,
+        "T2": 129504,
+        "T3": 221070
+      },
+      "totalMs": 520037,
+      "rank": 47
+    },
+    {
       "name": "xer ‎",
       "times": {
         "T1": 176908,
@@ -470,7 +480,7 @@
         "T3": 209877
       },
       "totalMs": 534716,
-      "rank": 47
+      "rank": 48
     },
     {
       "name": "m9ist",
@@ -480,7 +490,7 @@
         "T3": 150676
       },
       "totalMs": 534732,
-      "rank": 48
+      "rank": 49
     },
     {
       "name": "deleteme.txt",
@@ -490,7 +500,7 @@
         "T3": 170153
       },
       "totalMs": 544275,
-      "rank": 49
+      "rank": 50
     },
     {
       "name": "ksauce",
@@ -500,7 +510,7 @@
         "T3": 182710
       },
       "totalMs": 562528,
-      "rank": 50
+      "rank": 51
     },
     {
       "name": "Casperskulls",
@@ -510,16 +520,6 @@
         "T3": 179970
       },
       "totalMs": 591973,
-      "rank": 51
-    },
-    {
-      "name": "BenDaOctopus",
-      "times": {
-        "T1": 252474,
-        "T2": 129504,
-        "T3": 221070
-      },
-      "totalMs": 603048,
       "rank": 52
     },
     {
