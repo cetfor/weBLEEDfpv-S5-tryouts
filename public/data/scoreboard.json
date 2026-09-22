@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T09:39:51.236Z",
+  "generatedAt": "2026-09-22T09:49:40.080Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -173,6 +173,16 @@
       "rank": 17
     },
     {
+      "name": "Bam_",
+      "times": {
+        "T1": 141621,
+        "T2": 128463,
+        "T3": 132930
+      },
+      "totalMs": 403014,
+      "rank": 18
+    },
+    {
       "name": "TMAD",
       "times": {
         "T1": 152260,
@@ -180,16 +190,6 @@
         "T3": 134391
       },
       "totalMs": 409272,
-      "rank": 18
-    },
-    {
-      "name": "Bam_",
-      "times": {
-        "T1": 141621,
-        "T2": 136001,
-        "T3": 132930
-      },
-      "totalMs": 410552,
       "rank": 19
     },
     {
@@ -543,6 +543,16 @@
       "rank": 54
     },
     {
+      "name": "DeLongK",
+      "times": {
+        "T1": 229097,
+        "T2": 230464,
+        "T3": 205927
+      },
+      "totalMs": 665488,
+      "rank": 55
+    },
+    {
       "name": "Air_Wolf",
       "times": {
         "T1": 262728,
@@ -550,16 +560,6 @@
         "T3": 186074
       },
       "totalMs": 673295,
-      "rank": 55
-    },
-    {
-      "name": "DeLongK",
-      "times": {
-        "T1": 229097,
-        "T2": 230464,
-        "T3": 216906
-      },
-      "totalMs": 676467,
       "rank": 56
     },
     {
