@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T18:53:16.711Z",
+  "generatedAt": "2026-09-22T19:14:18.779Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -113,6 +113,16 @@
       "rank": 11
     },
     {
+      "name": "caceresc",
+      "times": {
+        "T1": 139063,
+        "T2": 118941,
+        "T3": 128917
+      },
+      "totalMs": 386921,
+      "rank": 12
+    },
+    {
       "name": "asiy",
       "times": {
         "T1": 142749,
@@ -120,7 +130,7 @@
         "T3": 128388
       },
       "totalMs": 390456,
-      "rank": 12
+      "rank": 13
     },
     {
       "name": "LeshaRodin",
@@ -130,7 +140,7 @@
         "T3": 136642
       },
       "totalMs": 391579,
-      "rank": 13
+      "rank": 14
     },
     {
       "name": "Anemon",
@@ -140,7 +150,7 @@
         "T3": 128462
       },
       "totalMs": 392600,
-      "rank": 14
+      "rank": 15
     },
     {
       "name": "heaVeNLy_SD",
@@ -150,16 +160,6 @@
         "T3": 127856
       },
       "totalMs": 393228,
-      "rank": 15
-    },
-    {
-      "name": "caceresc",
-      "times": {
-        "T1": 139063,
-        "T2": 118941,
-        "T3": 135826
-      },
-      "totalMs": 393830,
       "rank": 16
     },
     {
