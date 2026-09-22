@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T10:40:11.147Z",
+  "generatedAt": "2026-09-22T10:50:00.936Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -426,10 +426,10 @@
       "name": "Fastodon",
       "times": {
         "T1": 202500,
-        "T2": 161188,
+        "T2": 151869,
         "T3": 147660
       },
-      "totalMs": 511348,
+      "totalMs": 502029,
       "rank": 43
     },
     {
