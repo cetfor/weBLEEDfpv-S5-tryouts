@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T21:38:54.578Z",
+  "generatedAt": "2026-09-22T21:50:39.855Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -283,6 +283,16 @@
       "rank": 28
     },
     {
+      "name": "BenDaOctopus",
+      "times": {
+        "T1": 169463,
+        "T2": 129504,
+        "T3": 141096
+      },
+      "totalMs": 440063,
+      "rank": 29
+    },
+    {
       "name": "FPVRossco",
       "times": {
         "T1": 163403,
@@ -290,7 +300,7 @@
         "T3": 140381
       },
       "totalMs": 444403,
-      "rank": 29
+      "rank": 30
     },
     {
       "name": "OGdrLove",
@@ -300,7 +310,7 @@
         "T3": 137469
       },
       "totalMs": 447846,
-      "rank": 30
+      "rank": 31
     },
     {
       "name": "j4y",
@@ -310,7 +320,7 @@
         "T3": 136926
       },
       "totalMs": 448050,
-      "rank": 31
+      "rank": 32
     },
     {
       "name": "Kbar",
@@ -320,7 +330,7 @@
         "T3": 141039
       },
       "totalMs": 449929,
-      "rank": 32
+      "rank": 33
     },
     {
       "name": "Royden99",
@@ -330,7 +340,7 @@
         "T3": 143654
       },
       "totalMs": 452687,
-      "rank": 33
+      "rank": 34
     },
     {
       "name": "Perc.FPV",
@@ -340,7 +350,7 @@
         "T3": 149505
       },
       "totalMs": 454403,
-      "rank": 34
+      "rank": 35
     },
     {
       "name": "Shark__fpv",
@@ -350,7 +360,7 @@
         "T3": 156906
       },
       "totalMs": 455677,
-      "rank": 35
+      "rank": 36
     },
     {
       "name": "Doomburgerfpv",
@@ -360,7 +370,7 @@
         "T3": 152703
       },
       "totalMs": 457333,
-      "rank": 36
+      "rank": 37
     },
     {
       "name": "GeekBench",
@@ -370,7 +380,7 @@
         "T3": 144990
       },
       "totalMs": 458048,
-      "rank": 37
+      "rank": 38
     },
     {
       "name": "Wheelman1",
@@ -380,7 +390,7 @@
         "T3": 143349
       },
       "totalMs": 460167,
-      "rank": 38
+      "rank": 39
     },
     {
       "name": "-Zip-",
@@ -390,7 +400,7 @@
         "T3": 150634
       },
       "totalMs": 461360,
-      "rank": 39
+      "rank": 40
     },
     {
       "name": "_ZAR_",
@@ -400,16 +410,6 @@
         "T3": 139695
       },
       "totalMs": 462898,
-      "rank": 40
-    },
-    {
-      "name": "BenDaOctopus",
-      "times": {
-        "T1": 169463,
-        "T2": 129504,
-        "T3": 169204
-      },
-      "totalMs": 468171,
       "rank": 41
     },
     {
