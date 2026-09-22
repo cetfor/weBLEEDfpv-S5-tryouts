@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T18:42:49.427Z",
+  "generatedAt": "2026-09-22T18:53:16.711Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -153,6 +153,16 @@
       "rank": 15
     },
     {
+      "name": "caceresc",
+      "times": {
+        "T1": 139063,
+        "T2": 118941,
+        "T3": 135826
+      },
+      "totalMs": 393830,
+      "rank": 16
+    },
+    {
       "name": "Giddy Gimbals",
       "times": {
         "T1": 141677,
@@ -160,7 +170,7 @@
         "T3": 127208
       },
       "totalMs": 395146,
-      "rank": 16
+      "rank": 17
     },
     {
       "name": "MrMan",
@@ -170,7 +180,7 @@
         "T3": 144202
       },
       "totalMs": 395299,
-      "rank": 17
+      "rank": 18
     },
     {
       "name": "Hotspur",
@@ -180,16 +190,6 @@
         "T3": 129781
       },
       "totalMs": 398931,
-      "rank": 18
-    },
-    {
-      "name": "caceresc",
-      "times": {
-        "T1": 139063,
-        "T2": 118941,
-        "T3": 143463
-      },
-      "totalMs": 401467,
       "rank": 19
     },
     {
@@ -413,6 +413,16 @@
       "rank": 41
     },
     {
+      "name": "Bork FPV",
+      "times": {
+        "T1": 185738,
+        "T2": 147427,
+        "T3": 150033
+      },
+      "totalMs": 483198,
+      "rank": 42
+    },
+    {
       "name": "burnerXIII",
       "times": {
         "T1": 180350,
@@ -420,7 +430,7 @@
         "T3": 155568
       },
       "totalMs": 487054,
-      "rank": 42
+      "rank": 43
     },
     {
       "name": "Fastodon",
@@ -430,7 +440,7 @@
         "T3": 147660
       },
       "totalMs": 491217,
-      "rank": 43
+      "rank": 44
     },
     {
       "name": "FakeitFPV",
@@ -440,7 +450,7 @@
         "T3": 152972
       },
       "totalMs": 496128,
-      "rank": 44
+      "rank": 45
     },
     {
       "name": "h0pefpv",
@@ -450,7 +460,7 @@
         "T3": 155159
       },
       "totalMs": 501768,
-      "rank": 45
+      "rank": 46
     },
     {
       "name": "SteadyTrekker",
@@ -460,7 +470,7 @@
         "T3": 155356
       },
       "totalMs": 511771,
-      "rank": 46
+      "rank": 47
     },
     {
       "name": "Trooper_fpv",
@@ -470,7 +480,7 @@
         "T3": 157453
       },
       "totalMs": 518893,
-      "rank": 47
+      "rank": 48
     },
     {
       "name": "BenDaOctopus",
@@ -480,16 +490,6 @@
         "T3": 221070
       },
       "totalMs": 520037,
-      "rank": 48
-    },
-    {
-      "name": "Bork FPV",
-      "times": {
-        "T1": 185738,
-        "T2": 147427,
-        "T3": 187794
-      },
-      "totalMs": 520959,
       "rank": 49
     },
     {
