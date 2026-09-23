@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T11:49:39.890Z",
+  "generatedAt": "2026-09-23T12:25:46.822Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -403,6 +403,16 @@
       "rank": 40
     },
     {
+      "name": "Fastodon",
+      "times": {
+        "T1": 177794,
+        "T2": 135347,
+        "T3": 147660
+      },
+      "totalMs": 460801,
+      "rank": 41
+    },
+    {
       "name": "-Zip-",
       "times": {
         "T1": 167609,
@@ -410,7 +420,7 @@
         "T3": 150634
       },
       "totalMs": 461360,
-      "rank": 41
+      "rank": 42
     },
     {
       "name": "OmegaZenon",
@@ -420,7 +430,7 @@
         "T3": 159869
       },
       "totalMs": 470358,
-      "rank": 42
+      "rank": 43
     },
     {
       "name": "Bork FPV",
@@ -430,16 +440,6 @@
         "T3": 139645
       },
       "totalMs": 472810,
-      "rank": 43
-    },
-    {
-      "name": "Fastodon",
-      "times": {
-        "T1": 202500,
-        "T2": 135347,
-        "T3": 147660
-      },
-      "totalMs": 485507,
       "rank": 44
     },
     {
