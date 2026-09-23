@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T11:38:32.579Z",
+  "generatedAt": "2026-09-23T11:49:39.890Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -433,6 +433,16 @@
       "rank": 43
     },
     {
+      "name": "Fastodon",
+      "times": {
+        "T1": 202500,
+        "T2": 135347,
+        "T3": 147660
+      },
+      "totalMs": 485507,
+      "rank": 44
+    },
+    {
       "name": "burnerXIII",
       "times": {
         "T1": 180350,
@@ -440,16 +450,6 @@
         "T3": 155568
       },
       "totalMs": 487054,
-      "rank": 44
-    },
-    {
-      "name": "Fastodon",
-      "times": {
-        "T1": 202500,
-        "T2": 141057,
-        "T3": 147660
-      },
-      "totalMs": 491217,
       "rank": 45
     },
     {
