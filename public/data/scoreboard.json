@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T17:37:43.244Z",
+  "generatedAt": "2026-09-23T17:49:57.874Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -593,6 +593,16 @@
       "rank": 59
     },
     {
+      "name": "sharks",
+      "times": {
+        "T1": 314494,
+        "T2": 172661,
+        "T3": 154956
+      },
+      "totalMs": 642111,
+      "rank": 60
+    },
+    {
       "name": "Air_Wolf",
       "times": {
         "T1": 262728,
@@ -600,7 +610,7 @@
         "T3": 186074
       },
       "totalMs": 673295,
-      "rank": 60
+      "rank": 61
     },
     {
       "name": "Tasatir_0",
@@ -610,7 +620,7 @@
         "T3": 202876
       },
       "totalMs": 716593,
-      "rank": 61
+      "rank": 62
     },
     {
       "name": "Selector504",
@@ -620,7 +630,7 @@
         "T3": 187670
       },
       "totalMs": 720019,
-      "rank": 62
+      "rank": 63
     },
     {
       "name": "Bodie",
@@ -630,7 +640,7 @@
         "T3": 187162
       },
       "totalMs": 721402,
-      "rank": 63
+      "rank": 64
     },
     {
       "name": "DopamineFPV",
@@ -640,7 +650,7 @@
         "T3": 260324
       },
       "totalMs": 933007,
-      "rank": 64
+      "rank": 65
     }
   ]
 }
