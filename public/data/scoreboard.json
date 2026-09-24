@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T18:43:02.063Z",
+  "generatedAt": "2026-09-24T18:53:35.981Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -87,9 +87,9 @@
       "times": {
         "T1": 137569,
         "T2": 117368,
-        "T3": 124614
+        "T3": 122847
       },
-      "totalMs": 379551,
+      "totalMs": 377784,
       "rank": 9
     },
     {
@@ -153,6 +153,16 @@
       "rank": 15
     },
     {
+      "name": "qwerty1092",
+      "times": {
+        "T1": 144030,
+        "T2": 118198,
+        "T3": 130486
+      },
+      "totalMs": 392714,
+      "rank": 16
+    },
+    {
       "name": "heaVeNLy_SD",
       "times": {
         "T1": 140747,
@@ -160,7 +170,7 @@
         "T3": 127856
       },
       "totalMs": 393228,
-      "rank": 16
+      "rank": 17
     },
     {
       "name": "Giddy Gimbals",
@@ -170,7 +180,7 @@
         "T3": 127208
       },
       "totalMs": 395146,
-      "rank": 17
+      "rank": 18
     },
     {
       "name": "MrMan",
@@ -180,7 +190,7 @@
         "T3": 144202
       },
       "totalMs": 395299,
-      "rank": 18
+      "rank": 19
     },
     {
       "name": "Hotspur",
@@ -190,16 +200,6 @@
         "T3": 129781
       },
       "totalMs": 398931,
-      "rank": 19
-    },
-    {
-      "name": "qwerty1092",
-      "times": {
-        "T1": 144030,
-        "T2": 118198,
-        "T3": 138404
-      },
-      "totalMs": 400632,
       "rank": 20
     },
     {
