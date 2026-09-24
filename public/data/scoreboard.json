@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T04:43:00.671Z",
+  "generatedAt": "2026-09-24T04:53:14.374Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -635,11 +635,11 @@
     {
       "name": "Tasatir_0",
       "times": {
-        "T1": 257061,
+        "T1": 254368,
         "T2": 256656,
         "T3": 202876
       },
-      "totalMs": 716593,
+      "totalMs": 713900,
       "rank": 64
     },
     {
