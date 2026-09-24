@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T20:51:20.482Z",
+  "generatedAt": "2026-09-24T21:15:48.616Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -353,6 +353,16 @@
       "rank": 35
     },
     {
+      "name": "Doomburgerfpv",
+      "times": {
+        "T1": 160521,
+        "T2": 136532,
+        "T3": 152703
+      },
+      "totalMs": 449756,
+      "rank": 36
+    },
+    {
       "name": "Kbar",
       "times": {
         "T1": 169170,
@@ -360,7 +370,7 @@
         "T3": 141039
       },
       "totalMs": 449929,
-      "rank": 36
+      "rank": 37
     },
     {
       "name": "_ZAR_",
@@ -370,7 +380,7 @@
         "T3": 139695
       },
       "totalMs": 450573,
-      "rank": 37
+      "rank": 38
     },
     {
       "name": "Royden99",
@@ -380,7 +390,7 @@
         "T3": 143654
       },
       "totalMs": 452687,
-      "rank": 38
+      "rank": 39
     },
     {
       "name": "Perc.FPV",
@@ -390,7 +400,7 @@
         "T3": 149505
       },
       "totalMs": 454403,
-      "rank": 39
+      "rank": 40
     },
     {
       "name": "Shark__fpv",
@@ -400,16 +410,6 @@
         "T3": 156906
       },
       "totalMs": 455677,
-      "rank": 40
-    },
-    {
-      "name": "Doomburgerfpv",
-      "times": {
-        "T1": 160521,
-        "T2": 144109,
-        "T3": 152703
-      },
-      "totalMs": 457333,
       "rank": 41
     },
     {
