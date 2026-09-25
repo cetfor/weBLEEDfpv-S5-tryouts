@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T23:38:55.066Z",
+  "generatedAt": "2026-09-25T23:50:17.098Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -593,6 +593,16 @@
       "rank": 59
     },
     {
+      "name": "LUV4GOD",
+      "times": {
+        "T1": 221265,
+        "T2": 172169,
+        "T3": 175966
+      },
+      "totalMs": 569400,
+      "rank": 60
+    },
+    {
       "name": "NickRandom",
       "times": {
         "T1": 178913,
@@ -600,7 +610,7 @@
         "T3": 163745
       },
       "totalMs": 571999,
-      "rank": 60
+      "rank": 61
     },
     {
       "name": "DeLongK",
@@ -610,7 +620,7 @@
         "T3": 178750
       },
       "totalMs": 584766,
-      "rank": 61
+      "rank": 62
     },
     {
       "name": "Casperskulls",
@@ -620,16 +630,6 @@
         "T3": 179970
       },
       "totalMs": 591973,
-      "rank": 62
-    },
-    {
-      "name": "LUV4GOD",
-      "times": {
-        "T1": 259740,
-        "T2": 172169,
-        "T3": 175966
-      },
-      "totalMs": 607875,
       "rank": 63
     },
     {
