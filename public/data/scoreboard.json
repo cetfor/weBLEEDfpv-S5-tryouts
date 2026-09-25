@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T15:49:33.535Z",
+  "generatedAt": "2026-09-25T16:19:41.324Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -103,6 +103,16 @@
       "rank": 10
     },
     {
+      "name": "Fife Flyer",
+      "times": {
+        "T1": 136719,
+        "T2": 120069,
+        "T3": 123942
+      },
+      "totalMs": 380730,
+      "rank": 11
+    },
+    {
       "name": "eedok (Beta Tester)",
       "times": {
         "T1": 135028,
@@ -110,7 +120,7 @@
         "T3": 129456
       },
       "totalMs": 382931,
-      "rank": 11
+      "rank": 12
     },
     {
       "name": "Stephanao",
@@ -120,16 +130,6 @@
         "T3": 129612
       },
       "totalMs": 384431,
-      "rank": 12
-    },
-    {
-      "name": "Fife Flyer",
-      "times": {
-        "T1": 142695,
-        "T2": 120069,
-        "T3": 123942
-      },
-      "totalMs": 386706,
       "rank": 13
     },
     {
