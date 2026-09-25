@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T22:15:45.020Z",
+  "generatedAt": "2026-09-25T22:38:00.366Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -393,6 +393,16 @@
       "rank": 39
     },
     {
+      "name": "Bork FPV",
+      "times": {
+        "T1": 170815,
+        "T2": 140594,
+        "T3": 139645
+      },
+      "totalMs": 451054,
+      "rank": 40
+    },
+    {
       "name": "Royden99",
       "times": {
         "T1": 170731,
@@ -400,7 +410,7 @@
         "T3": 143654
       },
       "totalMs": 452687,
-      "rank": 40
+      "rank": 41
     },
     {
       "name": "Perc.FPV",
@@ -410,16 +420,6 @@
         "T3": 149505
       },
       "totalMs": 454403,
-      "rank": 41
-    },
-    {
-      "name": "Bork FPV",
-      "times": {
-        "T1": 175277,
-        "T2": 140594,
-        "T3": 139645
-      },
-      "totalMs": 455516,
       "rank": 42
     },
     {
