@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T00:45:09.278Z",
+  "generatedAt": "2026-09-25T01:13:40.717Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -233,6 +233,16 @@
       "rank": 23
     },
     {
+      "name": "MACnStein",
+      "times": {
+        "T1": 148920,
+        "T2": 128889,
+        "T3": 132511
+      },
+      "totalMs": 410320,
+      "rank": 24
+    },
+    {
       "name": "FulcrumFPV",
       "times": {
         "T1": 133493,
@@ -240,7 +250,7 @@
         "T3": 137391
       },
       "totalMs": 412469,
-      "rank": 24
+      "rank": 25
     },
     {
       "name": "Dinglez",
@@ -250,7 +260,7 @@
         "T3": 135435
       },
       "totalMs": 413934,
-      "rank": 25
+      "rank": 26
     },
     {
       "name": "regex",
@@ -260,7 +270,7 @@
         "T3": 128827
       },
       "totalMs": 414749,
-      "rank": 26
+      "rank": 27
     },
     {
       "name": "paszkevi4",
@@ -270,16 +280,6 @@
         "T3": 136437
       },
       "totalMs": 416657,
-      "rank": 27
-    },
-    {
-      "name": "MACnStein",
-      "times": {
-        "T1": 155274,
-        "T2": 128889,
-        "T3": 132511
-      },
-      "totalMs": 416674,
       "rank": 28
     },
     {
