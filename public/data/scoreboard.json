@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T00:02:05.550Z",
+  "generatedAt": "2026-09-26T00:45:08.537Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -223,6 +223,16 @@
       "rank": 22
     },
     {
+      "name": "TMAD",
+      "times": {
+        "T1": 152260,
+        "T2": 119303,
+        "T3": 134391
+      },
+      "totalMs": 405954,
+      "rank": 23
+    },
+    {
       "name": "MACnStein",
       "times": {
         "T1": 148920,
@@ -230,7 +240,7 @@
         "T3": 129460
       },
       "totalMs": 406070,
-      "rank": 23
+      "rank": 24
     },
     {
       "name": "BenDaOctopus",
@@ -240,16 +250,6 @@
         "T3": 134510
       },
       "totalMs": 406783,
-      "rank": 24
-    },
-    {
-      "name": "TMAD",
-      "times": {
-        "T1": 152260,
-        "T2": 121126,
-        "T3": 134391
-      },
-      "totalMs": 407777,
       "rank": 25
     },
     {
@@ -365,11 +365,11 @@
     {
       "name": "_ZAR_",
       "times": {
-        "T1": 171025,
+        "T1": 169782,
         "T2": 136683,
         "T3": 139695
       },
-      "totalMs": 447403,
+      "totalMs": 446160,
       "rank": 37
     },
     {
@@ -563,6 +563,16 @@
       "rank": 56
     },
     {
+      "name": "LUV4GOD",
+      "times": {
+        "T1": 188455,
+        "T2": 172169,
+        "T3": 175966
+      },
+      "totalMs": 536590,
+      "rank": 57
+    },
+    {
       "name": "deleteme.txt",
       "times": {
         "T1": 196130,
@@ -570,16 +580,6 @@
         "T3": 170153
       },
       "totalMs": 544275,
-      "rank": 57
-    },
-    {
-      "name": "LUV4GOD",
-      "times": {
-        "T1": 204841,
-        "T2": 172169,
-        "T3": 175966
-      },
-      "totalMs": 552976,
       "rank": 58
     },
     {
