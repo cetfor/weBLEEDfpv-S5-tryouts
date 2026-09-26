@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T05:16:05.895Z",
+  "generatedAt": "2026-09-26T05:39:10.450Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -333,6 +333,16 @@
       "rank": 33
     },
     {
+      "name": "FakeitFPV",
+      "times": {
+        "T1": 151817,
+        "T2": 135181,
+        "T3": 149413
+      },
+      "totalMs": 436411,
+      "rank": 34
+    },
+    {
       "name": "Doomburgerfpv",
       "times": {
         "T1": 155752,
@@ -340,7 +350,7 @@
         "T3": 146309
       },
       "totalMs": 438593,
-      "rank": 34
+      "rank": 35
     },
     {
       "name": "j4y",
@@ -350,7 +360,7 @@
         "T3": 136926
       },
       "totalMs": 441562,
-      "rank": 35
+      "rank": 36
     },
     {
       "name": "FPVRossco",
@@ -360,7 +370,7 @@
         "T3": 140381
       },
       "totalMs": 444403,
-      "rank": 36
+      "rank": 37
     },
     {
       "name": "_ZAR_",
@@ -370,7 +380,7 @@
         "T3": 139695
       },
       "totalMs": 445717,
-      "rank": 37
+      "rank": 38
     },
     {
       "name": "OGdrLove",
@@ -380,7 +390,7 @@
         "T3": 137469
       },
       "totalMs": 447846,
-      "rank": 38
+      "rank": 39
     },
     {
       "name": "Kbar",
@@ -390,16 +400,6 @@
         "T3": 141039
       },
       "totalMs": 449929,
-      "rank": 39
-    },
-    {
-      "name": "FakeitFPV",
-      "times": {
-        "T1": 151817,
-        "T2": 149334,
-        "T3": 149413
-      },
-      "totalMs": 450564,
       "rank": 40
     },
     {
