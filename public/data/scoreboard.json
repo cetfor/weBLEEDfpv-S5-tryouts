@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T20:50:43.838Z",
+  "generatedAt": "2026-09-26T21:14:10.243Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -513,6 +513,16 @@
       "rank": 51
     },
     {
+      "name": "BansheeBro",
+      "times": {
+        "T1": 183882,
+        "T2": 150432,
+        "T3": 152748
+      },
+      "totalMs": 487062,
+      "rank": 52
+    },
+    {
       "name": "h0pefpv",
       "times": {
         "T1": 176278,
@@ -520,16 +530,6 @@
         "T3": 155159
       },
       "totalMs": 494265,
-      "rank": 52
-    },
-    {
-      "name": "BansheeBro",
-      "times": {
-        "T1": 183882,
-        "T2": 150432,
-        "T3": 167415
-      },
-      "totalMs": 501729,
       "rank": 53
     },
     {
