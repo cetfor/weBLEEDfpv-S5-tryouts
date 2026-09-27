@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T23:27:25.017Z",
+  "generatedAt": "2026-09-27T23:39:14.488Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -653,6 +653,16 @@
       "rank": 65
     },
     {
+      "name": "Selector504",
+      "times": {
+        "T1": 203035,
+        "T2": 237180,
+        "T3": 161598
+      },
+      "totalMs": 601813,
+      "rank": 66
+    },
+    {
       "name": "BACONFEATURES",
       "times": {
         "T1": 226049,
@@ -660,16 +670,6 @@
         "T3": 190336
       },
       "totalMs": 610219,
-      "rank": 66
-    },
-    {
-      "name": "Selector504",
-      "times": {
-        "T1": 217232,
-        "T2": 237180,
-        "T3": 161598
-      },
-      "totalMs": 616010,
       "rank": 67
     },
     {
