@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T22:41:35.899Z",
+  "generatedAt": "2026-09-27T22:50:36.678Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -683,6 +683,16 @@
       "rank": 68
     },
     {
+      "name": "Selector504",
+      "times": {
+        "T1": 217232,
+        "T2": 237180,
+        "T3": 187670
+      },
+      "totalMs": 642082,
+      "rank": 69
+    },
+    {
       "name": "Air_Wolf",
       "times": {
         "T1": 262728,
@@ -690,7 +700,7 @@
         "T3": 186074
       },
       "totalMs": 673295,
-      "rank": 69
+      "rank": 70
     },
     {
       "name": "Tasatir_0",
@@ -700,16 +710,6 @@
         "T3": 202876
       },
       "totalMs": 695429,
-      "rank": 70
-    },
-    {
-      "name": "Selector504",
-      "times": {
-        "T1": 217232,
-        "T2": 315117,
-        "T3": 187670
-      },
-      "totalMs": 720019,
       "rank": 71
     },
     {
