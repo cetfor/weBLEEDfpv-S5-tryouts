@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T16:50:02.724Z",
+  "generatedAt": "2026-09-27T17:13:54.040Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -203,6 +203,16 @@
       "rank": 20
     },
     {
+      "name": "TMAD",
+      "times": {
+        "T1": 144638,
+        "T2": 117679,
+        "T3": 134391
+      },
+      "totalMs": 396708,
+      "rank": 21
+    },
+    {
       "name": "Hotspur",
       "times": {
         "T1": 147536,
@@ -210,16 +220,6 @@
         "T3": 129781
       },
       "totalMs": 398931,
-      "rank": 21
-    },
-    {
-      "name": "TMAD",
-      "times": {
-        "T1": 148074,
-        "T2": 117679,
-        "T3": 134391
-      },
-      "totalMs": 400144,
       "rank": 22
     },
     {
