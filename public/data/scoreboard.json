@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T12:29:39.460Z",
+  "generatedAt": "2026-09-28T12:55:43.416Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -685,11 +685,11 @@
     {
       "name": "zaMega",
       "times": {
-        "T1": 237316,
+        "T1": 232400,
         "T2": 220353,
         "T3": 181463
       },
-      "totalMs": 639132,
+      "totalMs": 634216,
       "rank": 69
     },
     {
