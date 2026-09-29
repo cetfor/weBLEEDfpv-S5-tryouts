@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T18:22:41.342Z",
+  "generatedAt": "2026-09-29T18:46:14.930Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -553,6 +553,16 @@
       "rank": 55
     },
     {
+      "name": "BallHawk",
+      "times": {
+        "T1": 185505,
+        "T2": 156732,
+        "T3": 174900
+      },
+      "totalMs": 517137,
+      "rank": 56
+    },
+    {
       "name": "Trooper_fpv",
       "times": {
         "T1": 201940,
@@ -560,16 +570,6 @@
         "T3": 157453
       },
       "totalMs": 518893,
-      "rank": 56
-    },
-    {
-      "name": "BallHawk",
-      "times": {
-        "T1": 198614,
-        "T2": 156732,
-        "T3": 174900
-      },
-      "totalMs": 530246,
       "rank": 57
     },
     {
