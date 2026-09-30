@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T16:21:04.035Z",
+  "generatedAt": "2026-09-30T16:43:16.603Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -613,6 +613,16 @@
       "rank": 61
     },
     {
+      "name": "zaMega",
+      "times": {
+        "T1": 202599,
+        "T2": 174146,
+        "T3": 161440
+      },
+      "totalMs": 538185,
+      "rank": 62
+    },
+    {
       "name": "deleteme.txt",
       "times": {
         "T1": 196130,
@@ -620,16 +630,6 @@
         "T3": 170153
       },
       "totalMs": 544275,
-      "rank": 62
-    },
-    {
-      "name": "zaMega",
-      "times": {
-        "T1": 202599,
-        "T2": 189512,
-        "T3": 161440
-      },
-      "totalMs": 553551,
       "rank": 63
     },
     {
