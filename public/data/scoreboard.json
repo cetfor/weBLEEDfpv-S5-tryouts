@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T02:10:28.655Z",
+  "generatedAt": "2026-10-01T02:47:11.868Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -113,6 +113,16 @@
       "rank": 11
     },
     {
+      "name": "caceresc",
+      "times": {
+        "T1": 139063,
+        "T2": 114533,
+        "T3": 128917
+      },
+      "totalMs": 382513,
+      "rank": 12
+    },
+    {
       "name": "eedok (Beta Tester)",
       "times": {
         "T1": 135028,
@@ -120,7 +130,17 @@
         "T3": 129456
       },
       "totalMs": 382931,
-      "rank": 12
+      "rank": 13
+    },
+    {
+      "name": "TMAD",
+      "times": {
+        "T1": 138477,
+        "T2": 117679,
+        "T3": 128037
+      },
+      "totalMs": 384193,
+      "rank": 14
     },
     {
       "name": "Stephanao",
@@ -130,36 +150,16 @@
         "T3": 129612
       },
       "totalMs": 384431,
-      "rank": 13
-    },
-    {
-      "name": "TMAD",
-      "times": {
-        "T1": 138477,
-        "T2": 117679,
-        "T3": 128546
-      },
-      "totalMs": 384702,
-      "rank": 14
-    },
-    {
-      "name": "caceresc",
-      "times": {
-        "T1": 139063,
-        "T2": 118941,
-        "T3": 128917
-      },
-      "totalMs": 386921,
       "rank": 15
     },
     {
       "name": "asiy",
       "times": {
         "T1": 142749,
-        "T2": 119319,
+        "T2": 115452,
         "T3": 128388
       },
-      "totalMs": 390456,
+      "totalMs": 386589,
       "rank": 16
     },
     {
@@ -473,6 +473,16 @@
       "rank": 47
     },
     {
+      "name": "-Zip-",
+      "times": {
+        "T1": 167609,
+        "T2": 142104,
+        "T3": 150634
+      },
+      "totalMs": 460347,
+      "rank": 48
+    },
+    {
       "name": "Fastodon",
       "times": {
         "T1": 177794,
@@ -480,16 +490,6 @@
         "T3": 147660
       },
       "totalMs": 460801,
-      "rank": 48
-    },
-    {
-      "name": "-Zip-",
-      "times": {
-        "T1": 167609,
-        "T2": 143117,
-        "T3": 150634
-      },
-      "totalMs": 461360,
       "rank": 49
     },
     {
