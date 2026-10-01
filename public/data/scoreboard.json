@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T18:46:48.740Z",
+  "generatedAt": "2026-10-01T19:15:41.899Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -433,6 +433,16 @@
       "rank": 43
     },
     {
+      "name": "BlockFPV",
+      "times": {
+        "T1": 166286,
+        "T2": 138097,
+        "T3": 146771
+      },
+      "totalMs": 451154,
+      "rank": 44
+    },
+    {
       "name": "-Zip-",
       "times": {
         "T1": 167609,
@@ -440,7 +450,7 @@
         "T3": 150634
       },
       "totalMs": 451197,
-      "rank": 44
+      "rank": 45
     },
     {
       "name": "Wheelman1",
@@ -450,7 +460,7 @@
         "T3": 143349
       },
       "totalMs": 452526,
-      "rank": 45
+      "rank": 46
     },
     {
       "name": "Perc.FPV",
@@ -460,7 +470,7 @@
         "T3": 149505
       },
       "totalMs": 454403,
-      "rank": 46
+      "rank": 47
     },
     {
       "name": "Shark__fpv",
@@ -470,7 +480,7 @@
         "T3": 156906
       },
       "totalMs": 455677,
-      "rank": 47
+      "rank": 48
     },
     {
       "name": "GeekBench",
@@ -480,16 +490,6 @@
         "T3": 144990
       },
       "totalMs": 458048,
-      "rank": 48
-    },
-    {
-      "name": "BlockFPV",
-      "times": {
-        "T1": 166286,
-        "T2": 145636,
-        "T3": 146771
-      },
-      "totalMs": 458693,
       "rank": 49
     },
     {
