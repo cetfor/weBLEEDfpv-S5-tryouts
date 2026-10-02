@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T02:03:32.261Z",
+  "generatedAt": "2026-10-02T02:39:41.344Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -135,11 +135,11 @@
     {
       "name": "TMAD",
       "times": {
-        "T1": 138477,
+        "T1": 137787,
         "T2": 117679,
         "T3": 128037
       },
-      "totalMs": 384193,
+      "totalMs": 383503,
       "rank": 14
     },
     {
