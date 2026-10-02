@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T04:45:11.521Z",
+  "generatedAt": "2026-10-02T04:56:21.906Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -263,6 +263,16 @@
       "rank": 26
     },
     {
+      "name": "Crash Flip",
+      "times": {
+        "T1": 148783,
+        "T2": 126856,
+        "T3": 133725
+      },
+      "totalMs": 409364,
+      "rank": 27
+    },
+    {
       "name": "FulcrumFPV",
       "times": {
         "T1": 133493,
@@ -270,16 +280,6 @@
         "T3": 137391
       },
       "totalMs": 412469,
-      "rank": 27
-    },
-    {
-      "name": "Crash Flip",
-      "times": {
-        "T1": 148783,
-        "T2": 126856,
-        "T3": 136925
-      },
-      "totalMs": 412564,
       "rank": 28
     },
     {
@@ -745,11 +745,11 @@
     {
       "name": "Tasatir_0",
       "times": {
-        "T1": 246242,
+        "T1": 245818,
         "T2": 238185,
         "T3": 202876
       },
-      "totalMs": 687303,
+      "totalMs": 686879,
       "rank": 75
     },
     {
