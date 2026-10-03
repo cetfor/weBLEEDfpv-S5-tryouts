@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T23:50:21.087Z",
+  "generatedAt": "2026-10-03T00:45:42.700Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -413,6 +413,16 @@
       "rank": 41
     },
     {
+      "name": "GeekBench",
+      "times": {
+        "T1": 162956,
+        "T2": 137533,
+        "T3": 139609
+      },
+      "totalMs": 440098,
+      "rank": 42
+    },
+    {
       "name": "j4y",
       "times": {
         "T1": 174447,
@@ -420,7 +430,7 @@
         "T3": 136926
       },
       "totalMs": 441562,
-      "rank": 42
+      "rank": 43
     },
     {
       "name": "Royden99",
@@ -430,7 +440,7 @@
         "T3": 134527
       },
       "totalMs": 443560,
-      "rank": 43
+      "rank": 44
     },
     {
       "name": "_ZAR_",
@@ -440,16 +450,6 @@
         "T3": 139695
       },
       "totalMs": 444107,
-      "rank": 44
-    },
-    {
-      "name": "GeekBench",
-      "times": {
-        "T1": 162956,
-        "T2": 137533,
-        "T3": 144227
-      },
-      "totalMs": 444716,
       "rank": 45
     },
     {
@@ -523,6 +523,16 @@
       "rank": 52
     },
     {
+      "name": "jamusXIII",
+      "times": {
+        "T1": 174577,
+        "T2": 144121,
+        "T3": 143698
+      },
+      "totalMs": 462396,
+      "rank": 53
+    },
+    {
       "name": "Batman FPV (Beta Tester)",
       "times": {
         "T1": 176114,
@@ -530,7 +540,7 @@
         "T3": 144021
       },
       "totalMs": 464534,
-      "rank": 53
+      "rank": 54
     },
     {
       "name": "OmegaZenon",
@@ -540,7 +550,7 @@
         "T3": 159869
       },
       "totalMs": 470358,
-      "rank": 54
+      "rank": 55
     },
     {
       "name": "burnerXIII",
@@ -550,7 +560,7 @@
         "T3": 155568
       },
       "totalMs": 487054,
-      "rank": 55
+      "rank": 56
     },
     {
       "name": "BansheeBro",
@@ -560,7 +570,7 @@
         "T3": 152748
       },
       "totalMs": 487062,
-      "rank": 56
+      "rank": 57
     },
     {
       "name": "h0pefpv",
@@ -570,7 +580,7 @@
         "T3": 155159
       },
       "totalMs": 494265,
-      "rank": 57
+      "rank": 58
     },
     {
       "name": "SteadyTrekker",
@@ -580,7 +590,7 @@
         "T3": 155356
       },
       "totalMs": 511771,
-      "rank": 58
+      "rank": 59
     },
     {
       "name": "BallHawk",
@@ -590,7 +600,7 @@
         "T3": 174900
       },
       "totalMs": 517137,
-      "rank": 59
+      "rank": 60
     },
     {
       "name": "zaMega",
@@ -600,7 +610,7 @@
         "T3": 154382
       },
       "totalMs": 517733,
-      "rank": 60
+      "rank": 61
     },
     {
       "name": "Trooper_fpv",
@@ -610,7 +620,7 @@
         "T3": 157453
       },
       "totalMs": 518893,
-      "rank": 61
+      "rank": 62
     },
     {
       "name": "xer ‎",
@@ -620,7 +630,7 @@
         "T3": 209877
       },
       "totalMs": 534716,
-      "rank": 62
+      "rank": 63
     },
     {
       "name": "m9ist",
@@ -630,16 +640,6 @@
         "T3": 150676
       },
       "totalMs": 534732,
-      "rank": 63
-    },
-    {
-      "name": "jamusXIII",
-      "times": {
-        "T1": 247018,
-        "T2": 144121,
-        "T3": 143698
-      },
-      "totalMs": 534837,
       "rank": 64
     },
     {
