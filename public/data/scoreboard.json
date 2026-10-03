@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T22:41:05.846Z",
+  "generatedAt": "2026-10-03T23:40:51.545Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -596,10 +596,10 @@
       "name": "BallHawk",
       "times": {
         "T1": 185505,
-        "T2": 156732,
+        "T2": 156458,
         "T3": 156439
       },
-      "totalMs": 498676,
+      "totalMs": 498402,
       "rank": 60
     },
     {
@@ -723,6 +723,16 @@
       "rank": 72
     },
     {
+      "name": "OGREfpv",
+      "times": {
+        "T1": 236188,
+        "T2": 183026,
+        "T3": 182139
+      },
+      "totalMs": 601353,
+      "rank": 73
+    },
+    {
       "name": "Selector504",
       "times": {
         "T1": 203035,
@@ -730,7 +740,7 @@
         "T3": 161598
       },
       "totalMs": 601813,
-      "rank": 73
+      "rank": 74
     },
     {
       "name": "BACONFEATURES",
@@ -740,16 +750,6 @@
         "T3": 190336
       },
       "totalMs": 610219,
-      "rank": 74
-    },
-    {
-      "name": "OGREfpv",
-      "times": {
-        "T1": 236188,
-        "T2": 207564,
-        "T3": 182139
-      },
-      "totalMs": 625891,
       "rank": 75
     },
     {
