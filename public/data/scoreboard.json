@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T03:32:40.797Z",
+  "generatedAt": "2026-10-03T04:05:00.356Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -423,6 +423,16 @@
       "rank": 42
     },
     {
+      "name": "-Zip-",
+      "times": {
+        "T1": 157197,
+        "T2": 132954,
+        "T3": 150634
+      },
+      "totalMs": 440785,
+      "rank": 43
+    },
+    {
       "name": "j4y",
       "times": {
         "T1": 174447,
@@ -430,7 +440,7 @@
         "T3": 136926
       },
       "totalMs": 441562,
-      "rank": 43
+      "rank": 44
     },
     {
       "name": "Royden99",
@@ -440,7 +450,7 @@
         "T3": 134527
       },
       "totalMs": 443560,
-      "rank": 44
+      "rank": 45
     },
     {
       "name": "_ZAR_",
@@ -450,7 +460,7 @@
         "T3": 139695
       },
       "totalMs": 444107,
-      "rank": 45
+      "rank": 46
     },
     {
       "name": "Kbar",
@@ -460,7 +470,7 @@
         "T3": 141039
       },
       "totalMs": 449929,
-      "rank": 46
+      "rank": 47
     },
     {
       "name": "BlockFPV",
@@ -470,16 +480,6 @@
         "T3": 146771
       },
       "totalMs": 451154,
-      "rank": 47
-    },
-    {
-      "name": "-Zip-",
-      "times": {
-        "T1": 167609,
-        "T2": 132954,
-        "T3": 150634
-      },
-      "totalMs": 451197,
       "rank": 48
     },
     {
