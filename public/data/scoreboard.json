@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T03:02:18.534Z",
+  "generatedAt": "2026-10-04T04:34:53.372Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -73,6 +73,16 @@
       "rank": 7
     },
     {
+      "name": "AnnihilationRobo",
+      "times": {
+        "T1": 131930,
+        "T2": 115139,
+        "T3": 124276
+      },
+      "totalMs": 371345,
+      "rank": 8
+    },
+    {
       "name": "Blastaa (Beta Tester)",
       "times": {
         "T1": 135895,
@@ -80,16 +90,6 @@
         "T3": 118510
       },
       "totalMs": 372160,
-      "rank": 8
-    },
-    {
-      "name": "AnnihilationRobo",
-      "times": {
-        "T1": 131930,
-        "T2": 116247,
-        "T3": 124276
-      },
-      "totalMs": 372453,
       "rank": 9
     },
     {
@@ -753,6 +753,16 @@
       "rank": 75
     },
     {
+      "name": "Tasatir_0",
+      "times": {
+        "T1": 245818,
+        "T2": 223720,
+        "T3": 202876
+      },
+      "totalMs": 672414,
+      "rank": 76
+    },
+    {
       "name": "Air_Wolf",
       "times": {
         "T1": 262728,
@@ -760,7 +770,7 @@
         "T3": 186074
       },
       "totalMs": 673295,
-      "rank": 76
+      "rank": 77
     },
     {
       "name": "Britchot",
@@ -770,16 +780,6 @@
         "T3": 218864
       },
       "totalMs": 684256,
-      "rank": 77
-    },
-    {
-      "name": "Tasatir_0",
-      "times": {
-        "T1": 245818,
-        "T2": 238185,
-        "T3": 202876
-      },
-      "totalMs": 686879,
       "rank": 78
     },
     {
