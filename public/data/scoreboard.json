@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T01:54:51.799Z",
+  "generatedAt": "2026-10-04T03:02:18.534Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -83,6 +83,16 @@
       "rank": 8
     },
     {
+      "name": "AnnihilationRobo",
+      "times": {
+        "T1": 131930,
+        "T2": 116247,
+        "T3": 124276
+      },
+      "totalMs": 372453,
+      "rank": 9
+    },
+    {
       "name": "Fife Flyer",
       "times": {
         "T1": 136719,
@@ -90,7 +100,7 @@
         "T3": 122746
       },
       "totalMs": 374311,
-      "rank": 9
+      "rank": 10
     },
     {
       "name": "caceresc",
@@ -100,16 +110,6 @@
         "T3": 128917
       },
       "totalMs": 375869,
-      "rank": 10
-    },
-    {
-      "name": "AnnihilationRobo",
-      "times": {
-        "T1": 131930,
-        "T2": 119736,
-        "T3": 124276
-      },
-      "totalMs": 375942,
       "rank": 11
     },
     {
@@ -463,6 +463,16 @@
       "rank": 46
     },
     {
+      "name": "jamusXIII",
+      "times": {
+        "T1": 157377,
+        "T2": 144121,
+        "T3": 143698
+      },
+      "totalMs": 445196,
+      "rank": 47
+    },
+    {
       "name": "Kbar",
       "times": {
         "T1": 169170,
@@ -470,7 +480,7 @@
         "T3": 141039
       },
       "totalMs": 449929,
-      "rank": 47
+      "rank": 48
     },
     {
       "name": "BlockFPV",
@@ -480,7 +490,7 @@
         "T3": 146771
       },
       "totalMs": 451154,
-      "rank": 48
+      "rank": 49
     },
     {
       "name": "Wheelman1",
@@ -490,7 +500,7 @@
         "T3": 143349
       },
       "totalMs": 452526,
-      "rank": 49
+      "rank": 50
     },
     {
       "name": "Perc.FPV",
@@ -500,7 +510,7 @@
         "T3": 149505
       },
       "totalMs": 454403,
-      "rank": 50
+      "rank": 51
     },
     {
       "name": "Shark__fpv",
@@ -510,7 +520,7 @@
         "T3": 156906
       },
       "totalMs": 455677,
-      "rank": 51
+      "rank": 52
     },
     {
       "name": "Fastodon",
@@ -520,16 +530,6 @@
         "T3": 147660
       },
       "totalMs": 460801,
-      "rank": 52
-    },
-    {
-      "name": "jamusXIII",
-      "times": {
-        "T1": 174577,
-        "T2": 144121,
-        "T3": 143698
-      },
-      "totalMs": 462396,
       "rank": 53
     },
     {
