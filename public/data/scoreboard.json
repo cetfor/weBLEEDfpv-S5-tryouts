@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T04:29:54.543Z",
+  "generatedAt": "2026-10-05T05:10:27.803Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -423,6 +423,16 @@
       "rank": 42
     },
     {
+      "name": "_ZAR_",
+      "times": {
+        "T1": 167729,
+        "T2": 130223,
+        "T3": 139695
+      },
+      "totalMs": 437647,
+      "rank": 43
+    },
+    {
       "name": "GeekBench",
       "times": {
         "T1": 162956,
@@ -430,7 +440,7 @@
         "T3": 139609
       },
       "totalMs": 440098,
-      "rank": 43
+      "rank": 44
     },
     {
       "name": "jamusXIII",
@@ -440,7 +450,7 @@
         "T3": 139757
       },
       "totalMs": 441255,
-      "rank": 44
+      "rank": 45
     },
     {
       "name": "j4y",
@@ -450,16 +460,6 @@
         "T3": 136926
       },
       "totalMs": 441562,
-      "rank": 45
-    },
-    {
-      "name": "_ZAR_",
-      "times": {
-        "T1": 167729,
-        "T2": 135712,
-        "T3": 139695
-      },
-      "totalMs": 443136,
       "rank": 46
     },
     {
