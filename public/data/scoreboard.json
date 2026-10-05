@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T08:33:28.490Z",
+  "generatedAt": "2026-10-05T09:01:52.610Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -23,6 +23,16 @@
       "rank": 2
     },
     {
+      "name": "Petrushka_ussr",
+      "times": {
+        "T1": 121078,
+        "T2": 110638,
+        "T3": 118704
+      },
+      "totalMs": 350420,
+      "rank": 3
+    },
+    {
       "name": "zest_m_ussr",
       "times": {
         "T1": 122758,
@@ -30,16 +40,6 @@
         "T3": 118061
       },
       "totalMs": 350430,
-      "rank": 3
-    },
-    {
-      "name": "Petrushka_ussr",
-      "times": {
-        "T1": 123751,
-        "T2": 110638,
-        "T3": 118704
-      },
-      "totalMs": 353093,
       "rank": 4
     },
     {
