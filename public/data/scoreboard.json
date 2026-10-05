@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T23:38:26.616Z",
+  "generatedAt": "2026-10-05T23:49:44.582Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -446,10 +446,10 @@
       "name": "jamusXIII",
       "times": {
         "T1": 157377,
-        "T2": 144121,
+        "T2": 143239,
         "T3": 139757
       },
-      "totalMs": 441255,
+      "totalMs": 440373,
       "rank": 45
     },
     {
