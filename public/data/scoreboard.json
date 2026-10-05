@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T01:40:40.517Z",
+  "generatedAt": "2026-10-05T02:07:26.067Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -133,6 +133,16 @@
       "rank": 13
     },
     {
+      "name": "TMAD",
+      "times": {
+        "T1": 136538,
+        "T2": 117679,
+        "T3": 128037
+      },
+      "totalMs": 382254,
+      "rank": 14
+    },
+    {
       "name": "eedok (Beta Tester)",
       "times": {
         "T1": 135028,
@@ -140,16 +150,6 @@
         "T3": 129456
       },
       "totalMs": 382931,
-      "rank": 14
-    },
-    {
-      "name": "TMAD",
-      "times": {
-        "T1": 137787,
-        "T2": 117679,
-        "T3": 128037
-      },
-      "totalMs": 383503,
       "rank": 15
     },
     {
@@ -433,6 +433,16 @@
       "rank": 43
     },
     {
+      "name": "jamusXIII",
+      "times": {
+        "T1": 157377,
+        "T2": 144121,
+        "T3": 139757
+      },
+      "totalMs": 441255,
+      "rank": 44
+    },
+    {
       "name": "j4y",
       "times": {
         "T1": 174447,
@@ -440,7 +450,7 @@
         "T3": 136926
       },
       "totalMs": 441562,
-      "rank": 44
+      "rank": 45
     },
     {
       "name": "Royden99",
@@ -450,7 +460,7 @@
         "T3": 134527
       },
       "totalMs": 443560,
-      "rank": 45
+      "rank": 46
     },
     {
       "name": "_ZAR_",
@@ -460,16 +470,6 @@
         "T3": 139695
       },
       "totalMs": 444107,
-      "rank": 46
-    },
-    {
-      "name": "jamusXIII",
-      "times": {
-        "T1": 157377,
-        "T2": 144121,
-        "T3": 143698
-      },
-      "totalMs": 445196,
       "rank": 47
     },
     {
