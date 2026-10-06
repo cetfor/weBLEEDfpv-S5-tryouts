@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T00:48:48.856Z",
+  "generatedAt": "2026-10-06T01:32:38.725Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -353,6 +353,16 @@
       "rank": 35
     },
     {
+      "name": "jamusXIII",
+      "times": {
+        "T1": 152376,
+        "T2": 138172,
+        "T3": 139757
+      },
+      "totalMs": 430305,
+      "rank": 36
+    },
+    {
       "name": "Bork FPV",
       "times": {
         "T1": 160514,
@@ -360,7 +370,7 @@
         "T3": 138973
       },
       "totalMs": 431524,
-      "rank": 36
+      "rank": 37
     },
     {
       "name": "Hypnos FPV",
@@ -370,7 +380,7 @@
         "T3": 135084
       },
       "totalMs": 431581,
-      "rank": 37
+      "rank": 38
     },
     {
       "name": "-Zip-",
@@ -380,7 +390,7 @@
         "T3": 142327
       },
       "totalMs": 432478,
-      "rank": 38
+      "rank": 39
     },
     {
       "name": "FPVRossco",
@@ -390,16 +400,6 @@
         "T3": 140381
       },
       "totalMs": 433004,
-      "rank": 39
-    },
-    {
-      "name": "jamusXIII",
-      "times": {
-        "T1": 157377,
-        "T2": 138172,
-        "T3": 139757
-      },
-      "totalMs": 435306,
       "rank": 40
     },
     {
@@ -553,6 +553,16 @@
       "rank": 55
     },
     {
+      "name": "BansheeBro",
+      "times": {
+        "T1": 172949,
+        "T2": 142900,
+        "T3": 152748
+      },
+      "totalMs": 468597,
+      "rank": 56
+    },
+    {
       "name": "OmegaZenon",
       "times": {
         "T1": 179422,
@@ -560,16 +570,6 @@
         "T3": 159869
       },
       "totalMs": 470358,
-      "rank": 56
-    },
-    {
-      "name": "BansheeBro",
-      "times": {
-        "T1": 172949,
-        "T2": 150432,
-        "T3": 152748
-      },
-      "totalMs": 476129,
       "rank": 57
     },
     {
@@ -723,6 +723,16 @@
       "rank": 72
     },
     {
+      "name": "Lounds (Beta Tester)",
+      "times": {
+        "T1": 207205,
+        "T2": 213728,
+        "T3": 180066
+      },
+      "totalMs": 600999,
+      "rank": 73
+    },
+    {
       "name": "OGREfpv",
       "times": {
         "T1": 236188,
@@ -730,7 +740,7 @@
         "T3": 182139
       },
       "totalMs": 601353,
-      "rank": 73
+      "rank": 74
     },
     {
       "name": "Selector504",
@@ -740,7 +750,7 @@
         "T3": 161598
       },
       "totalMs": 601813,
-      "rank": 74
+      "rank": 75
     },
     {
       "name": "BACONFEATURES",
@@ -750,7 +760,7 @@
         "T3": 190336
       },
       "totalMs": 610219,
-      "rank": 75
+      "rank": 76
     },
     {
       "name": "Tasatir_0",
@@ -760,7 +770,7 @@
         "T3": 202876
       },
       "totalMs": 659699,
-      "rank": 76
+      "rank": 77
     },
     {
       "name": "Air_Wolf",
@@ -770,7 +780,7 @@
         "T3": 186074
       },
       "totalMs": 673295,
-      "rank": 77
+      "rank": 78
     },
     {
       "name": "Britchot",
@@ -780,7 +790,7 @@
         "T3": 218864
       },
       "totalMs": 684256,
-      "rank": 78
+      "rank": 79
     },
     {
       "name": "Bodie",
@@ -790,17 +800,17 @@
         "T3": 187162
       },
       "totalMs": 721402,
-      "rank": 79
+      "rank": 80
     },
     {
       "name": "ZOETEK (Beta Tester)",
       "times": {
         "T1": 272556,
         "T2": 315146,
-        "T3": 254148
+        "T3": 231385
       },
-      "totalMs": 841850,
-      "rank": 80
+      "totalMs": 819087,
+      "rank": 81
     },
     {
       "name": "DopamineFPV",
@@ -810,7 +820,7 @@
         "T3": 236625
       },
       "totalMs": 909308,
-      "rank": 81
+      "rank": 82
     }
   ]
 }
