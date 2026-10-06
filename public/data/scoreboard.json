@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T23:49:44.582Z",
+  "generatedAt": "2026-10-06T00:48:48.856Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -73,6 +73,16 @@
       "rank": 7
     },
     {
+      "name": "caceresc",
+      "times": {
+        "T1": 132419,
+        "T2": 114533,
+        "T3": 123323
+      },
+      "totalMs": 370275,
+      "rank": 8
+    },
+    {
       "name": "andre_adams",
       "times": {
         "T1": 129609,
@@ -80,7 +90,7 @@
         "T3": 126109
       },
       "totalMs": 370905,
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "Blastaa (Beta Tester)",
@@ -90,7 +100,7 @@
         "T3": 118510
       },
       "totalMs": 372160,
-      "rank": 9
+      "rank": 10
     },
     {
       "name": "Fife Flyer",
@@ -100,16 +110,6 @@
         "T3": 122746
       },
       "totalMs": 374311,
-      "rank": 10
-    },
-    {
-      "name": "caceresc",
-      "times": {
-        "T1": 132419,
-        "T2": 114533,
-        "T3": 128917
-      },
-      "totalMs": 375869,
       "rank": 11
     },
     {
@@ -393,6 +393,16 @@
       "rank": 39
     },
     {
+      "name": "jamusXIII",
+      "times": {
+        "T1": 157377,
+        "T2": 138172,
+        "T3": 139757
+      },
+      "totalMs": 435306,
+      "rank": 40
+    },
+    {
       "name": "stasyan1339",
       "times": {
         "T1": 158727,
@@ -400,7 +410,7 @@
         "T3": 142319
       },
       "totalMs": 435971,
-      "rank": 40
+      "rank": 41
     },
     {
       "name": "FakeitFPV",
@@ -410,7 +420,7 @@
         "T3": 149413
       },
       "totalMs": 436411,
-      "rank": 41
+      "rank": 42
     },
     {
       "name": "OGdrLove",
@@ -420,7 +430,7 @@
         "T3": 136627
       },
       "totalMs": 437587,
-      "rank": 42
+      "rank": 43
     },
     {
       "name": "_ZAR_",
@@ -430,7 +440,7 @@
         "T3": 139695
       },
       "totalMs": 437647,
-      "rank": 43
+      "rank": 44
     },
     {
       "name": "GeekBench",
@@ -440,16 +450,6 @@
         "T3": 139609
       },
       "totalMs": 440098,
-      "rank": 44
-    },
-    {
-      "name": "jamusXIII",
-      "times": {
-        "T1": 157377,
-        "T2": 143239,
-        "T3": 139757
-      },
-      "totalMs": 440373,
       "rank": 45
     },
     {
@@ -473,6 +473,16 @@
       "rank": 47
     },
     {
+      "name": "BlockFPV",
+      "times": {
+        "T1": 166286,
+        "T2": 138097,
+        "T3": 144857
+      },
+      "totalMs": 449240,
+      "rank": 48
+    },
+    {
       "name": "Kbar",
       "times": {
         "T1": 169170,
@@ -480,16 +490,6 @@
         "T3": 141039
       },
       "totalMs": 449929,
-      "rank": 48
-    },
-    {
-      "name": "BlockFPV",
-      "times": {
-        "T1": 166286,
-        "T2": 138097,
-        "T3": 146771
-      },
-      "totalMs": 451154,
       "rank": 49
     },
     {
@@ -563,6 +563,16 @@
       "rank": 56
     },
     {
+      "name": "BansheeBro",
+      "times": {
+        "T1": 172949,
+        "T2": 150432,
+        "T3": 152748
+      },
+      "totalMs": 476129,
+      "rank": 57
+    },
+    {
       "name": "burnerXIII",
       "times": {
         "T1": 180350,
@@ -570,16 +580,6 @@
         "T3": 155568
       },
       "totalMs": 487054,
-      "rank": 57
-    },
-    {
-      "name": "BansheeBro",
-      "times": {
-        "T1": 183882,
-        "T2": 150432,
-        "T3": 152748
-      },
-      "totalMs": 487062,
       "rank": 58
     },
     {
@@ -793,6 +793,16 @@
       "rank": 79
     },
     {
+      "name": "ZOETEK (Beta Tester)",
+      "times": {
+        "T1": 272556,
+        "T2": 315146,
+        "T3": 254148
+      },
+      "totalMs": 841850,
+      "rank": 80
+    },
+    {
       "name": "DopamineFPV",
       "times": {
         "T1": 347264,
@@ -800,7 +810,7 @@
         "T3": 236625
       },
       "totalMs": 909308,
-      "rank": 80
+      "rank": 81
     }
   ]
 }
