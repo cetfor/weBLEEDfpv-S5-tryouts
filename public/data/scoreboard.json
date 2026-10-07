@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T12:55:48.431Z",
+  "generatedAt": "2026-10-07T13:23:50.828Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -93,6 +93,16 @@
       "rank": 9
     },
     {
+      "name": "Fife Flyer",
+      "times": {
+        "T1": 133979,
+        "T2": 114846,
+        "T3": 122746
+      },
+      "totalMs": 371571,
+      "rank": 10
+    },
+    {
       "name": "Blastaa (Beta Tester)",
       "times": {
         "T1": 135895,
@@ -100,16 +110,6 @@
         "T3": 118510
       },
       "totalMs": 372160,
-      "rank": 10
-    },
-    {
-      "name": "Fife Flyer",
-      "times": {
-        "T1": 136719,
-        "T2": 114846,
-        "T3": 122746
-      },
-      "totalMs": 374311,
       "rank": 11
     },
     {
@@ -583,6 +583,16 @@
       "rank": 58
     },
     {
+      "name": "mimidub",
+      "times": {
+        "T1": 180624,
+        "T2": 149856,
+        "T3": 151897
+      },
+      "totalMs": 482377,
+      "rank": 59
+    },
+    {
       "name": "burnerXIII",
       "times": {
         "T1": 180350,
@@ -590,16 +600,6 @@
         "T3": 155568
       },
       "totalMs": 487054,
-      "rank": 59
-    },
-    {
-      "name": "mimidub",
-      "times": {
-        "T1": 180624,
-        "T2": 149856,
-        "T3": 156846
-      },
-      "totalMs": 487326,
       "rank": 60
     },
     {
