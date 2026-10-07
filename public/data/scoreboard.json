@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T18:22:38.460Z",
+  "generatedAt": "2026-10-07T18:48:19.264Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -585,11 +585,11 @@
     {
       "name": "mimidub",
       "times": {
-        "T1": 174138,
+        "T1": 171213,
         "T2": 149856,
         "T3": 151897
       },
-      "totalMs": 475891,
+      "totalMs": 472966,
       "rank": 59
     },
     {
