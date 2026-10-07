@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T07:57:15.309Z",
+  "generatedAt": "2026-10-07T08:30:53.423Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -763,6 +763,16 @@
       "rank": 76
     },
     {
+      "name": "mimidub",
+      "times": {
+        "T1": 180624,
+        "T2": 149856,
+        "T3": 272943
+      },
+      "totalMs": 603423,
+      "rank": 77
+    },
+    {
       "name": "BACONFEATURES",
       "times": {
         "T1": 226049,
@@ -770,7 +780,7 @@
         "T3": 190336
       },
       "totalMs": 610219,
-      "rank": 77
+      "rank": 78
     },
     {
       "name": "Tasatir_0",
@@ -780,7 +790,7 @@
         "T3": 202876
       },
       "totalMs": 659699,
-      "rank": 78
+      "rank": 79
     },
     {
       "name": "Air_Wolf",
@@ -790,7 +800,7 @@
         "T3": 186074
       },
       "totalMs": 673295,
-      "rank": 79
+      "rank": 80
     },
     {
       "name": "Britchot",
@@ -800,7 +810,7 @@
         "T3": 218864
       },
       "totalMs": 684256,
-      "rank": 80
+      "rank": 81
     },
     {
       "name": "AlexeySyromyatnikov",
@@ -810,7 +820,7 @@
         "T3": 254929
       },
       "totalMs": 688615,
-      "rank": 81
+      "rank": 82
     },
     {
       "name": "Bodie",
@@ -820,7 +830,7 @@
         "T3": 187162
       },
       "totalMs": 721402,
-      "rank": 82
+      "rank": 83
     },
     {
       "name": "ZOETEK (Beta Tester)",
@@ -830,7 +840,7 @@
         "T3": 231385
       },
       "totalMs": 819087,
-      "rank": 83
+      "rank": 84
     },
     {
       "name": "DopamineFPV",
@@ -840,7 +850,7 @@
         "T3": 236625
       },
       "totalMs": 909308,
-      "rank": 84
+      "rank": 85
     }
   ]
 }
