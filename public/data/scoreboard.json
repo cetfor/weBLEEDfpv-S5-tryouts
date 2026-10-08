@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T00:50:08.632Z",
+  "generatedAt": "2026-10-08T01:37:11.415Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -393,6 +393,16 @@
       "rank": 39
     },
     {
+      "name": "GeekBench",
+      "times": {
+        "T1": 162956,
+        "T2": 129247,
+        "T3": 139609
+      },
+      "totalMs": 431812,
+      "rank": 40
+    },
+    {
       "name": "-Zip-",
       "times": {
         "T1": 157197,
@@ -400,7 +410,7 @@
         "T3": 142327
       },
       "totalMs": 432478,
-      "rank": 40
+      "rank": 41
     },
     {
       "name": "FPVRossco",
@@ -410,7 +420,7 @@
         "T3": 140381
       },
       "totalMs": 433004,
-      "rank": 41
+      "rank": 42
     },
     {
       "name": "stasyan1339",
@@ -420,7 +430,7 @@
         "T3": 142319
       },
       "totalMs": 435971,
-      "rank": 42
+      "rank": 43
     },
     {
       "name": "FakeitFPV",
@@ -430,7 +440,7 @@
         "T3": 149413
       },
       "totalMs": 436411,
-      "rank": 43
+      "rank": 44
     },
     {
       "name": "OGdrLove",
@@ -440,7 +450,7 @@
         "T3": 136627
       },
       "totalMs": 437587,
-      "rank": 44
+      "rank": 45
     },
     {
       "name": "BlockFPV",
@@ -450,16 +460,6 @@
         "T3": 135706
       },
       "totalMs": 440089,
-      "rank": 45
-    },
-    {
-      "name": "GeekBench",
-      "times": {
-        "T1": 162956,
-        "T2": 137533,
-        "T3": 139609
-      },
-      "totalMs": 440098,
       "rank": 46
     },
     {
