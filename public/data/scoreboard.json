@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T02:06:29.282Z",
+  "generatedAt": "2026-10-08T02:43:18.122Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -323,6 +323,16 @@
       "rank": 32
     },
     {
+      "name": "GeekBench",
+      "times": {
+        "T1": 149297,
+        "T2": 129247,
+        "T3": 139609
+      },
+      "totalMs": 418153,
+      "rank": 33
+    },
+    {
       "name": "Bork FPV",
       "times": {
         "T1": 154514,
@@ -330,7 +340,7 @@
         "T3": 135987
       },
       "totalMs": 419268,
-      "rank": 33
+      "rank": 34
     },
     {
       "name": "Doomburgerfpv",
@@ -340,16 +350,6 @@
         "T3": 136279
       },
       "totalMs": 420480,
-      "rank": 34
-    },
-    {
-      "name": "GeekBench",
-      "times": {
-        "T1": 153804,
-        "T2": 129247,
-        "T3": 139609
-      },
-      "totalMs": 422660,
       "rank": 35
     },
     {
@@ -363,6 +363,16 @@
       "rank": 36
     },
     {
+      "name": "OGdrLove",
+      "times": {
+        "T1": 153483,
+        "T2": 137884,
+        "T3": 136627
+      },
+      "totalMs": 427994,
+      "rank": 37
+    },
+    {
       "name": "_-Crimson-_",
       "times": {
         "T1": 161171,
@@ -370,7 +380,7 @@
         "T3": 138679
       },
       "totalMs": 428539,
-      "rank": 37
+      "rank": 38
     },
     {
       "name": "_ZAR_",
@@ -380,7 +390,7 @@
         "T3": 139695
       },
       "totalMs": 429097,
-      "rank": 38
+      "rank": 39
     },
     {
       "name": "jamusXIII",
@@ -390,7 +400,7 @@
         "T3": 139757
       },
       "totalMs": 430305,
-      "rank": 39
+      "rank": 40
     },
     {
       "name": "Hypnos FPV",
@@ -400,7 +410,7 @@
         "T3": 135084
       },
       "totalMs": 431581,
-      "rank": 40
+      "rank": 41
     },
     {
       "name": "-Zip-",
@@ -410,7 +420,7 @@
         "T3": 142327
       },
       "totalMs": 432478,
-      "rank": 41
+      "rank": 42
     },
     {
       "name": "FPVRossco",
@@ -420,7 +430,7 @@
         "T3": 140381
       },
       "totalMs": 433004,
-      "rank": 42
+      "rank": 43
     },
     {
       "name": "stasyan1339",
@@ -430,7 +440,7 @@
         "T3": 142319
       },
       "totalMs": 435971,
-      "rank": 43
+      "rank": 44
     },
     {
       "name": "FakeitFPV",
@@ -440,16 +450,6 @@
         "T3": 149413
       },
       "totalMs": 436411,
-      "rank": 44
-    },
-    {
-      "name": "OGdrLove",
-      "times": {
-        "T1": 162121,
-        "T2": 137884,
-        "T3": 136627
-      },
-      "totalMs": 436632,
       "rank": 45
     },
     {
