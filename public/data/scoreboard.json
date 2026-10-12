@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T17:17:21.898Z",
+  "generatedAt": "2026-10-12T17:43:09.354Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -353,6 +353,16 @@
       "rank": 35
     },
     {
+      "name": "BlockFPV",
+      "times": {
+        "T1": 154258,
+        "T2": 130396,
+        "T3": 135706
+      },
+      "totalMs": 420360,
+      "rank": 36
+    },
+    {
       "name": "Doomburgerfpv",
       "times": {
         "T1": 150310,
@@ -360,7 +370,7 @@
         "T3": 136279
       },
       "totalMs": 420480,
-      "rank": 36
+      "rank": 37
     },
     {
       "name": "OGdrLove",
@@ -370,7 +380,7 @@
         "T3": 136627
       },
       "totalMs": 421838,
-      "rank": 37
+      "rank": 38
     },
     {
       "name": "YURSA",
@@ -380,7 +390,7 @@
         "T3": 156988
       },
       "totalMs": 427699,
-      "rank": 38
+      "rank": 39
     },
     {
       "name": "_-Crimson-_",
@@ -390,7 +400,7 @@
         "T3": 138679
       },
       "totalMs": 428539,
-      "rank": 39
+      "rank": 40
     },
     {
       "name": "-Zip-",
@@ -400,7 +410,7 @@
         "T3": 142327
       },
       "totalMs": 428607,
-      "rank": 40
+      "rank": 41
     },
     {
       "name": "jamusXIII",
@@ -410,7 +420,7 @@
         "T3": 139757
       },
       "totalMs": 430305,
-      "rank": 41
+      "rank": 42
     },
     {
       "name": "Hypnos FPV",
@@ -420,16 +430,6 @@
         "T3": 135084
       },
       "totalMs": 431581,
-      "rank": 42
-    },
-    {
-      "name": "BlockFPV",
-      "times": {
-        "T1": 166286,
-        "T2": 130396,
-        "T3": 135706
-      },
-      "totalMs": 432388,
       "rank": 43
     },
     {
