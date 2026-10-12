@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T19:14:20.688Z",
+  "generatedAt": "2026-10-12T19:29:48.890Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -65,11 +65,11 @@
     {
       "name": "Fife Flyer",
       "times": {
-        "T1": 133979,
+        "T1": 132607,
         "T2": 114846,
         "T3": 120234
       },
-      "totalMs": 369059,
+      "totalMs": 367687,
       "rank": 7
     },
     {
