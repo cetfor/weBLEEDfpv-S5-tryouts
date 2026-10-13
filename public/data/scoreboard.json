@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T15:56:53.919Z",
+  "generatedAt": "2026-10-13T16:23:56.993Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -533,6 +533,16 @@
       "rank": 53
     },
     {
+      "name": "Cha Cha",
+      "times": {
+        "T1": 163164,
+        "T2": 139815,
+        "T3": 150344
+      },
+      "totalMs": 453323,
+      "rank": 54
+    },
+    {
       "name": "Perc.FPV",
       "times": {
         "T1": 170600,
@@ -540,7 +550,7 @@
         "T3": 149505
       },
       "totalMs": 454403,
-      "rank": 54
+      "rank": 55
     },
     {
       "name": "Shark__fpv",
@@ -550,16 +560,6 @@
         "T3": 156906
       },
       "totalMs": 455677,
-      "rank": 55
-    },
-    {
-      "name": "Cha Cha",
-      "times": {
-        "T1": 168633,
-        "T2": 139815,
-        "T3": 150344
-      },
-      "totalMs": 458792,
       "rank": 56
     },
     {
