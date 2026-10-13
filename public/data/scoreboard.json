@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T22:49:56.865Z",
+  "generatedAt": "2026-10-13T23:13:30.976Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -173,6 +173,16 @@
       "rank": 17
     },
     {
+      "name": "BenDaOctopus",
+      "times": {
+        "T1": 135370,
+        "T2": 120943,
+        "T3": 134510
+      },
+      "totalMs": 390823,
+      "rank": 18
+    },
+    {
       "name": "Giddy Gimbals",
       "times": {
         "T1": 141677,
@@ -180,7 +190,7 @@
         "T3": 123705
       },
       "totalMs": 391643,
-      "rank": 18
+      "rank": 19
     },
     {
       "name": "Bam_",
@@ -190,7 +200,7 @@
         "T3": 132930
       },
       "totalMs": 392251,
-      "rank": 19
+      "rank": 20
     },
     {
       "name": "Anemon",
@@ -200,7 +210,7 @@
         "T3": 128462
       },
       "totalMs": 392600,
-      "rank": 20
+      "rank": 21
     },
     {
       "name": "qwerty1092",
@@ -210,7 +220,7 @@
         "T3": 130486
       },
       "totalMs": 392714,
-      "rank": 21
+      "rank": 22
     },
     {
       "name": "heaVeNLy_SD",
@@ -220,7 +230,7 @@
         "T3": 127856
       },
       "totalMs": 393228,
-      "rank": 22
+      "rank": 23
     },
     {
       "name": "MrMan",
@@ -230,7 +240,7 @@
         "T3": 144202
       },
       "totalMs": 395299,
-      "rank": 23
+      "rank": 24
     },
     {
       "name": "MACnStein",
@@ -240,16 +250,6 @@
         "T3": 126307
       },
       "totalMs": 395618,
-      "rank": 24
-    },
-    {
-      "name": "BenDaOctopus",
-      "times": {
-        "T1": 141185,
-        "T2": 120943,
-        "T3": 134510
-      },
-      "totalMs": 396638,
       "rank": 25
     },
     {
@@ -433,6 +433,16 @@
       "rank": 43
     },
     {
+      "name": "Cha Cha",
+      "times": {
+        "T1": 159233,
+        "T2": 139815,
+        "T3": 133549
+      },
+      "totalMs": 432597,
+      "rank": 44
+    },
+    {
       "name": "FPVRossco",
       "times": {
         "T1": 159473,
@@ -440,7 +450,7 @@
         "T3": 140381
       },
       "totalMs": 433004,
-      "rank": 44
+      "rank": 45
     },
     {
       "name": "stasyan1339",
@@ -450,7 +460,7 @@
         "T3": 142319
       },
       "totalMs": 435971,
-      "rank": 45
+      "rank": 46
     },
     {
       "name": "FakeitFPV",
@@ -460,16 +470,6 @@
         "T3": 149413
       },
       "totalMs": 436411,
-      "rank": 46
-    },
-    {
-      "name": "Cha Cha",
-      "times": {
-        "T1": 163164,
-        "T2": 139815,
-        "T3": 133549
-      },
-      "totalMs": 436528,
       "rank": 47
     },
     {
