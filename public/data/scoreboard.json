@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T15:55:49.132Z",
+  "generatedAt": "2026-10-14T16:20:26.894Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -386,10 +386,10 @@
       "name": "Cha Cha",
       "times": {
         "T1": 151933,
-        "T2": 139815,
+        "T2": 137815,
         "T3": 133549
       },
-      "totalMs": 425297,
+      "totalMs": 423297,
       "rank": 39
     },
     {
