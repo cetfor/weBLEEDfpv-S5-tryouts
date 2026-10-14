@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T12:49:26.487Z",
+  "generatedAt": "2026-10-14T13:15:40.554Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -175,11 +175,11 @@
     {
       "name": "BenDaOctopus",
       "times": {
-        "T1": 135370,
+        "T1": 134433,
         "T2": 120943,
         "T3": 134510
       },
-      "totalMs": 390823,
+      "totalMs": 389886,
       "rank": 18
     },
     {
