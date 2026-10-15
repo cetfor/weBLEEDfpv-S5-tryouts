@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T20:43:30.167Z",
+  "generatedAt": "2026-10-15T20:53:42.864Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -383,6 +383,16 @@
       "rank": 38
     },
     {
+      "name": "FPV_Cam",
+      "times": {
+        "T1": 143930,
+        "T2": 124498,
+        "T3": 151670
+      },
+      "totalMs": 420098,
+      "rank": 39
+    },
+    {
       "name": "BlockFPV",
       "times": {
         "T1": 154258,
@@ -390,7 +400,7 @@
         "T3": 135706
       },
       "totalMs": 420360,
-      "rank": 39
+      "rank": 40
     },
     {
       "name": "jamusXIII",
@@ -400,7 +410,7 @@
         "T3": 135231
       },
       "totalMs": 425779,
-      "rank": 40
+      "rank": 41
     },
     {
       "name": "YURSA",
@@ -410,7 +420,7 @@
         "T3": 156988
       },
       "totalMs": 427699,
-      "rank": 41
+      "rank": 42
     },
     {
       "name": "_-Crimson-_",
@@ -420,7 +430,7 @@
         "T3": 138679
       },
       "totalMs": 428539,
-      "rank": 42
+      "rank": 43
     },
     {
       "name": "-Zip-",
@@ -430,7 +440,7 @@
         "T3": 142327
       },
       "totalMs": 428607,
-      "rank": 43
+      "rank": 44
     },
     {
       "name": "Hypnos FPV",
@@ -440,7 +450,7 @@
         "T3": 135084
       },
       "totalMs": 431581,
-      "rank": 44
+      "rank": 45
     },
     {
       "name": "FPVRossco",
@@ -450,7 +460,7 @@
         "T3": 140381
       },
       "totalMs": 433004,
-      "rank": 45
+      "rank": 46
     },
     {
       "name": "Royden99",
@@ -460,7 +470,7 @@
         "T3": 134527
       },
       "totalMs": 433886,
-      "rank": 46
+      "rank": 47
     },
     {
       "name": "stasyan1339",
@@ -470,7 +480,7 @@
         "T3": 142319
       },
       "totalMs": 435971,
-      "rank": 47
+      "rank": 48
     },
     {
       "name": "FakeitFPV",
@@ -480,7 +490,7 @@
         "T3": 149413
       },
       "totalMs": 436411,
-      "rank": 48
+      "rank": 49
     },
     {
       "name": "j4y",
@@ -490,7 +500,7 @@
         "T3": 136926
       },
       "totalMs": 441562,
-      "rank": 49
+      "rank": 50
     },
     {
       "name": "BansheeBro",
@@ -500,7 +510,7 @@
         "T3": 139083
       },
       "totalMs": 447964,
-      "rank": 50
+      "rank": 51
     },
     {
       "name": "mimidub",
@@ -510,7 +520,7 @@
         "T3": 146610
       },
       "totalMs": 449680,
-      "rank": 51
+      "rank": 52
     },
     {
       "name": "Kbar",
@@ -520,7 +530,7 @@
         "T3": 141039
       },
       "totalMs": 449929,
-      "rank": 52
+      "rank": 53
     },
     {
       "name": "TheSkittles (Beta Tester)",
@@ -530,7 +540,7 @@
         "T3": 146909
       },
       "totalMs": 450786,
-      "rank": 53
+      "rank": 54
     },
     {
       "name": "Wheelman1",
@@ -540,16 +550,6 @@
         "T3": 143349
       },
       "totalMs": 452526,
-      "rank": 54
-    },
-    {
-      "name": "FPV_Cam",
-      "times": {
-        "T1": 143930,
-        "T2": 124498,
-        "T3": 185783
-      },
-      "totalMs": 454211,
       "rank": 55
     },
     {
