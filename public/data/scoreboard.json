@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T06:28:52.345Z",
+  "generatedAt": "2026-10-15T06:56:44.907Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -293,6 +293,16 @@
       "rank": 29
     },
     {
+      "name": "Doomburgerfpv",
+      "times": {
+        "T1": 145528,
+        "T2": 133891,
+        "T3": 132409
+      },
+      "totalMs": 411828,
+      "rank": 30
+    },
+    {
       "name": "FulcrumFPV",
       "times": {
         "T1": 133493,
@@ -300,7 +310,7 @@
         "T3": 137391
       },
       "totalMs": 412469,
-      "rank": 30
+      "rank": 31
     },
     {
       "name": "OGdrLove",
@@ -310,7 +320,7 @@
         "T3": 127904
       },
       "totalMs": 413115,
-      "rank": 31
+      "rank": 32
     },
     {
       "name": "GeekBench",
@@ -320,7 +330,7 @@
         "T3": 135003
       },
       "totalMs": 413547,
-      "rank": 32
+      "rank": 33
     },
     {
       "name": "Dinglez",
@@ -330,7 +340,7 @@
         "T3": 135435
       },
       "totalMs": 413934,
-      "rank": 33
+      "rank": 34
     },
     {
       "name": "regex",
@@ -340,7 +350,7 @@
         "T3": 128827
       },
       "totalMs": 414749,
-      "rank": 34
+      "rank": 35
     },
     {
       "name": "Cha Cha",
@@ -350,16 +360,6 @@
         "T3": 133549
       },
       "totalMs": 415131,
-      "rank": 35
-    },
-    {
-      "name": "Doomburgerfpv",
-      "times": {
-        "T1": 150310,
-        "T2": 133891,
-        "T3": 132409
-      },
-      "totalMs": 416610,
       "rank": 36
     },
     {
