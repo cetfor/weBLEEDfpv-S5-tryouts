@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T02:27:48.367Z",
+  "generatedAt": "2026-10-15T02:48:11.408Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -177,9 +177,9 @@
       "times": {
         "T1": 142749,
         "T2": 115452,
-        "T3": 127899
+        "T3": 127564
       },
-      "totalMs": 386100,
+      "totalMs": 385765,
       "rank": 18
     },
     {
@@ -303,13 +303,13 @@
       "rank": 30
     },
     {
-      "name": "Dinglez",
+      "name": "OGdrLove",
       "times": {
-        "T1": 155090,
-        "T2": 123409,
-        "T3": 135435
+        "T1": 147327,
+        "T2": 137884,
+        "T3": 127904
       },
-      "totalMs": 413934,
+      "totalMs": 413115,
       "rank": 31
     },
     {
@@ -317,19 +317,19 @@
       "times": {
         "T1": 149297,
         "T2": 129247,
-        "T3": 135580
+        "T3": 135003
       },
-      "totalMs": 414124,
+      "totalMs": 413547,
       "rank": 32
     },
     {
-      "name": "OGdrLove",
+      "name": "Dinglez",
       "times": {
-        "T1": 147327,
-        "T2": 137884,
-        "T3": 129398
+        "T1": 155090,
+        "T2": 123409,
+        "T3": 135435
       },
-      "totalMs": 414609,
+      "totalMs": 413934,
       "rank": 33
     },
     {
