@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T02:48:11.408Z",
+  "generatedAt": "2026-10-15T03:20:01.687Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -163,6 +163,16 @@
       "rank": 16
     },
     {
+      "name": "asiy",
+      "times": {
+        "T1": 142749,
+        "T2": 115452,
+        "T3": 125348
+      },
+      "totalMs": 383549,
+      "rank": 17
+    },
+    {
       "name": "Stephanao",
       "times": {
         "T1": 137008,
@@ -170,16 +180,6 @@
         "T3": 129612
       },
       "totalMs": 384431,
-      "rank": 17
-    },
-    {
-      "name": "asiy",
-      "times": {
-        "T1": 142749,
-        "T2": 115452,
-        "T3": 127564
-      },
-      "totalMs": 385765,
       "rank": 18
     },
     {
