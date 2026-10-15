@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T01:57:26.710Z",
+  "generatedAt": "2026-10-15T02:27:48.367Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -177,9 +177,9 @@
       "times": {
         "T1": 142749,
         "T2": 115452,
-        "T3": 128388
+        "T3": 127899
       },
-      "totalMs": 386589,
+      "totalMs": 386100,
       "rank": 18
     },
     {
@@ -313,6 +313,26 @@
       "rank": 31
     },
     {
+      "name": "GeekBench",
+      "times": {
+        "T1": 149297,
+        "T2": 129247,
+        "T3": 135580
+      },
+      "totalMs": 414124,
+      "rank": 32
+    },
+    {
+      "name": "OGdrLove",
+      "times": {
+        "T1": 147327,
+        "T2": 137884,
+        "T3": 129398
+      },
+      "totalMs": 414609,
+      "rank": 33
+    },
+    {
       "name": "regex",
       "times": {
         "T1": 163687,
@@ -320,7 +340,7 @@
         "T3": 128827
       },
       "totalMs": 414749,
-      "rank": 32
+      "rank": 34
     },
     {
       "name": "Cha Cha",
@@ -330,17 +350,7 @@
         "T3": 133549
       },
       "totalMs": 415131,
-      "rank": 33
-    },
-    {
-      "name": "GeekBench",
-      "times": {
-        "T1": 149297,
-        "T2": 129247,
-        "T3": 139609
-      },
-      "totalMs": 418153,
-      "rank": 34
+      "rank": 35
     },
     {
       "name": "_ZAR_",
@@ -350,7 +360,7 @@
         "T3": 133969
       },
       "totalMs": 418943,
-      "rank": 35
+      "rank": 36
     },
     {
       "name": "Bork FPV",
@@ -360,7 +370,7 @@
         "T3": 135987
       },
       "totalMs": 419268,
-      "rank": 36
+      "rank": 37
     },
     {
       "name": "BlockFPV",
@@ -370,7 +380,7 @@
         "T3": 135706
       },
       "totalMs": 420360,
-      "rank": 37
+      "rank": 38
     },
     {
       "name": "Doomburgerfpv",
@@ -380,16 +390,6 @@
         "T3": 136279
       },
       "totalMs": 420480,
-      "rank": 38
-    },
-    {
-      "name": "OGdrLove",
-      "times": {
-        "T1": 147327,
-        "T2": 137884,
-        "T3": 136627
-      },
-      "totalMs": 421838,
       "rank": 39
     },
     {
