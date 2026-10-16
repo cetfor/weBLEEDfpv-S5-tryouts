@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T02:26:47.626Z",
+  "generatedAt": "2026-10-16T02:47:25.787Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -303,6 +303,16 @@
       "rank": 30
     },
     {
+      "name": "Cha Cha",
+      "times": {
+        "T1": 151933,
+        "T2": 129649,
+        "T3": 130465
+      },
+      "totalMs": 412047,
+      "rank": 31
+    },
+    {
       "name": "FulcrumFPV",
       "times": {
         "T1": 133493,
@@ -310,7 +320,7 @@
         "T3": 137391
       },
       "totalMs": 412469,
-      "rank": 31
+      "rank": 32
     },
     {
       "name": "OGdrLove",
@@ -320,16 +330,6 @@
         "T3": 127904
       },
       "totalMs": 413115,
-      "rank": 32
-    },
-    {
-      "name": "Cha Cha",
-      "times": {
-        "T1": 151933,
-        "T2": 129649,
-        "T3": 131582
-      },
-      "totalMs": 413164,
       "rank": 33
     },
     {
