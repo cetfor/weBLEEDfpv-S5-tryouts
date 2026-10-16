@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T22:41:20.311Z",
+  "generatedAt": "2026-10-16T22:50:32.844Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -413,6 +413,16 @@
       "rank": 41
     },
     {
+      "name": "Hypnos FPV",
+      "times": {
+        "T1": 157815,
+        "T2": 133077,
+        "T3": 135084
+      },
+      "totalMs": 425976,
+      "rank": 42
+    },
+    {
       "name": "YURSA",
       "times": {
         "T1": 143503,
@@ -420,16 +430,6 @@
         "T3": 156988
       },
       "totalMs": 427699,
-      "rank": 42
-    },
-    {
-      "name": "Hypnos FPV",
-      "times": {
-        "T1": 160215,
-        "T2": 133077,
-        "T3": 135084
-      },
-      "totalMs": 428376,
       "rank": 43
     },
     {
