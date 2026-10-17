@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T19:37:13.295Z",
+  "generatedAt": "2026-10-17T19:49:43.684Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -783,6 +783,16 @@
       "rank": 78
     },
     {
+      "name": "Britchot",
+      "times": {
+        "T1": 243742,
+        "T2": 179079,
+        "T3": 171764
+      },
+      "totalMs": 594585,
+      "rank": 79
+    },
+    {
       "name": "Lounds (Beta Tester)",
       "times": {
         "T1": 207205,
@@ -790,7 +800,7 @@
         "T3": 180066
       },
       "totalMs": 600999,
-      "rank": 79
+      "rank": 80
     },
     {
       "name": "OGREfpv",
@@ -800,7 +810,7 @@
         "T3": 182139
       },
       "totalMs": 601353,
-      "rank": 80
+      "rank": 81
     },
     {
       "name": "Selector504",
@@ -810,7 +820,7 @@
         "T3": 161598
       },
       "totalMs": 601813,
-      "rank": 81
+      "rank": 82
     },
     {
       "name": "BACONFEATURES",
@@ -820,16 +830,6 @@
         "T3": 190336
       },
       "totalMs": 610219,
-      "rank": 82
-    },
-    {
-      "name": "Britchot",
-      "times": {
-        "T1": 243742,
-        "T2": 179079,
-        "T3": 218864
-      },
-      "totalMs": 641685,
       "rank": 83
     },
     {
