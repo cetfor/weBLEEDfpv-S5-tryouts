@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T22:50:18.016Z",
+  "generatedAt": "2026-10-17T23:12:21.833Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -415,11 +415,11 @@
     {
       "name": "Hypnos FPV",
       "times": {
-        "T1": 157734,
+        "T1": 156622,
         "T2": 128830,
         "T3": 135084
       },
-      "totalMs": 421648,
+      "totalMs": 420536,
       "rank": 42
     },
     {
@@ -895,11 +895,11 @@
     {
       "name": "mictinfpv",
       "times": {
-        "T1": 292216,
+        "T1": 281286,
         "T2": 353116,
         "T3": 320701
       },
-      "totalMs": 966033,
+      "totalMs": 955103,
       "rank": 90
     }
   ]
