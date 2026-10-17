@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T06:49:57.956Z",
+  "generatedAt": "2026-10-17T07:15:16.369Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -503,6 +503,16 @@
       "rank": 50
     },
     {
+      "name": "TheSkittles (Beta Tester)",
+      "times": {
+        "T1": 161405,
+        "T2": 138008,
+        "T3": 146909
+      },
+      "totalMs": 446322,
+      "rank": 51
+    },
+    {
       "name": "BansheeBro",
       "times": {
         "T1": 172949,
@@ -510,7 +520,7 @@
         "T3": 139083
       },
       "totalMs": 447964,
-      "rank": 51
+      "rank": 52
     },
     {
       "name": "mimidub",
@@ -520,7 +530,7 @@
         "T3": 146610
       },
       "totalMs": 449680,
-      "rank": 52
+      "rank": 53
     },
     {
       "name": "Kbar",
@@ -530,16 +540,6 @@
         "T3": 141039
       },
       "totalMs": 449929,
-      "rank": 53
-    },
-    {
-      "name": "TheSkittles (Beta Tester)",
-      "times": {
-        "T1": 161405,
-        "T2": 142472,
-        "T3": 146909
-      },
-      "totalMs": 450786,
       "rank": 54
     },
     {
