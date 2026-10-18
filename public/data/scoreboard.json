@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T02:55:04.370Z",
+  "generatedAt": "2026-10-18T03:19:23.537Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -643,6 +643,16 @@
       "rank": 64
     },
     {
+      "name": "ZEBRA_THREE",
+      "times": {
+        "T1": 177120,
+        "T2": 167988,
+        "T3": 148482
+      },
+      "totalMs": 493590,
+      "rank": 65
+    },
+    {
       "name": "h0pefpv",
       "times": {
         "T1": 176278,
@@ -650,7 +660,7 @@
         "T3": 155159
       },
       "totalMs": 494265,
-      "rank": 65
+      "rank": 66
     },
     {
       "name": "SteadyTrekker",
@@ -660,7 +670,7 @@
         "T3": 155356
       },
       "totalMs": 511771,
-      "rank": 66
+      "rank": 67
     },
     {
       "name": "FunOn",
@@ -670,7 +680,7 @@
         "T3": 148750
       },
       "totalMs": 514168,
-      "rank": 67
+      "rank": 68
     },
     {
       "name": "zaMega",
@@ -680,7 +690,7 @@
         "T3": 154382
       },
       "totalMs": 515333,
-      "rank": 68
+      "rank": 69
     },
     {
       "name": "Trooper_fpv",
@@ -690,16 +700,6 @@
         "T3": 157453
       },
       "totalMs": 518893,
-      "rank": 69
-    },
-    {
-      "name": "ZEBRA_THREE",
-      "times": {
-        "T1": 208707,
-        "T2": 167988,
-        "T3": 148482
-      },
-      "totalMs": 525177,
       "rank": 70
     },
     {
