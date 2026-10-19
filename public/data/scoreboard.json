@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T21:51:23.095Z",
+  "generatedAt": "2026-10-19T22:15:53.423Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -433,6 +433,16 @@
       "rank": 43
     },
     {
+      "name": "Royden99",
+      "times": {
+        "T1": 155978,
+        "T2": 134957,
+        "T3": 134058
+      },
+      "totalMs": 424993,
+      "rank": 44
+    },
+    {
       "name": "YURSA",
       "times": {
         "T1": 143503,
@@ -440,7 +450,7 @@
         "T3": 156988
       },
       "totalMs": 427699,
-      "rank": 44
+      "rank": 45
     },
     {
       "name": "_-Crimson-_",
@@ -450,7 +460,7 @@
         "T3": 138679
       },
       "totalMs": 428539,
-      "rank": 45
+      "rank": 46
     },
     {
       "name": "-Zip-",
@@ -460,16 +470,6 @@
         "T3": 142327
       },
       "totalMs": 428607,
-      "rank": 46
-    },
-    {
-      "name": "Royden99",
-      "times": {
-        "T1": 161057,
-        "T2": 134957,
-        "T3": 134058
-      },
-      "totalMs": 430072,
       "rank": 47
     },
     {
