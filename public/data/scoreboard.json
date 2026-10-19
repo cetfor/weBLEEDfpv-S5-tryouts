@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T19:51:45.504Z",
+  "generatedAt": "2026-10-19T20:17:21.820Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -463,6 +463,16 @@
       "rank": 46
     },
     {
+      "name": "Royden99",
+      "times": {
+        "T1": 161057,
+        "T2": 134957,
+        "T3": 134058
+      },
+      "totalMs": 430072,
+      "rank": 47
+    },
+    {
       "name": "FPVRossco",
       "times": {
         "T1": 159473,
@@ -470,16 +480,6 @@
         "T3": 140381
       },
       "totalMs": 433004,
-      "rank": 47
-    },
-    {
-      "name": "Royden99",
-      "times": {
-        "T1": 161057,
-        "T2": 138302,
-        "T3": 134058
-      },
-      "totalMs": 433417,
       "rank": 48
     },
     {
