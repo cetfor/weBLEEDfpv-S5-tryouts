@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T01:30:53.473Z",
+  "generatedAt": "2026-10-19T02:01:33.565Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -585,11 +585,11 @@
     {
       "name": "Sir Tarzan",
       "times": {
-        "T1": 166661,
+        "T1": 166578,
         "T2": 149939,
         "T3": 140550
       },
-      "totalMs": 457150,
+      "totalMs": 457067,
       "rank": 59
     },
     {
