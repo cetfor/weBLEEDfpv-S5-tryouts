@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T23:38:21.424Z",
+  "generatedAt": "2026-10-20T23:50:30.447Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -951,6 +951,16 @@
       },
       "totalMs": 955103,
       "rank": 95
+    },
+    {
+      "name": "Sebby_D_FPV",
+      "times": {
+        "T1": 297657,
+        "T2": 312144,
+        "T3": 371024
+      },
+      "totalMs": 980825,
+      "rank": 96
     }
   ]
 }
