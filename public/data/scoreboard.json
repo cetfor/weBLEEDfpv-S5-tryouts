@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T04:55:23.769Z",
+  "generatedAt": "2026-10-20T05:16:31.173Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -703,6 +703,16 @@
       "rank": 70
     },
     {
+      "name": "wolfgoat",
+      "times": {
+        "T1": 201399,
+        "T2": 177323,
+        "T3": 154714
+      },
+      "totalMs": 533436,
+      "rank": 71
+    },
+    {
       "name": "xer ‎",
       "times": {
         "T1": 176908,
@@ -710,7 +720,7 @@
         "T3": 209877
       },
       "totalMs": 534716,
-      "rank": 71
+      "rank": 72
     },
     {
       "name": "m9ist",
@@ -720,7 +730,7 @@
         "T3": 150676
       },
       "totalMs": 534732,
-      "rank": 72
+      "rank": 73
     },
     {
       "name": "deleteme.txt",
@@ -730,7 +740,7 @@
         "T3": 169220
       },
       "totalMs": 535734,
-      "rank": 73
+      "rank": 74
     },
     {
       "name": "Britchot",
@@ -740,7 +750,7 @@
         "T3": 171764
       },
       "totalMs": 535774,
-      "rank": 74
+      "rank": 75
     },
     {
       "name": "LUV4GOD",
@@ -750,16 +760,6 @@
         "T3": 175966
       },
       "totalMs": 536590,
-      "rank": 75
-    },
-    {
-      "name": "wolfgoat",
-      "times": {
-        "T1": 201399,
-        "T2": 177323,
-        "T3": 161269
-      },
-      "totalMs": 539991,
       "rank": 76
     },
     {
