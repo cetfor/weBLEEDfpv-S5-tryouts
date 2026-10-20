@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T16:19:06.134Z",
+  "generatedAt": "2026-10-20T16:42:23.885Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -903,6 +903,16 @@
       "rank": 90
     },
     {
+      "name": "Skeeterbug",
+      "times": {
+        "T1": 255589,
+        "T2": 298834,
+        "T3": 215371
+      },
+      "totalMs": 769794,
+      "rank": 91
+    },
+    {
       "name": "ZOETEK (Beta Tester)",
       "times": {
         "T1": 272556,
@@ -910,7 +920,7 @@
         "T3": 189112
       },
       "totalMs": 776814,
-      "rank": 91
+      "rank": 92
     },
     {
       "name": "DopamineFPV",
@@ -920,7 +930,7 @@
         "T3": 236625
       },
       "totalMs": 909308,
-      "rank": 92
+      "rank": 93
     },
     {
       "name": "mictinfpv",
@@ -930,7 +940,7 @@
         "T3": 320701
       },
       "totalMs": 955103,
-      "rank": 93
+      "rank": 94
     }
   ]
 }
