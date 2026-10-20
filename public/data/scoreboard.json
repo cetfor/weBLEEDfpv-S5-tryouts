@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T20:52:22.624Z",
+  "generatedAt": "2026-10-20T21:16:03.274Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -893,6 +893,16 @@
       "rank": 89
     },
     {
+      "name": "redeux",
+      "times": {
+        "T1": 269925,
+        "T2": 199070,
+        "T3": 232828
+      },
+      "totalMs": 701823,
+      "rank": 90
+    },
+    {
       "name": "Bodie",
       "times": {
         "T1": 351915,
@@ -900,7 +910,7 @@
         "T3": 187162
       },
       "totalMs": 721402,
-      "rank": 90
+      "rank": 91
     },
     {
       "name": "Skeeterbug",
@@ -910,7 +920,7 @@
         "T3": 215371
       },
       "totalMs": 769794,
-      "rank": 91
+      "rank": 92
     },
     {
       "name": "ZOETEK (Beta Tester)",
@@ -920,16 +930,6 @@
         "T3": 189112
       },
       "totalMs": 776814,
-      "rank": 92
-    },
-    {
-      "name": "redeux",
-      "times": {
-        "T1": 459431,
-        "T2": 199070,
-        "T3": 232828
-      },
-      "totalMs": 891329,
       "rank": 93
     },
     {
