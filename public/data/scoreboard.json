@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T03:21:33.490Z",
+  "generatedAt": "2026-10-21T03:45:37.436Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -16,10 +16,10 @@
       "name": "MonsterDuke",
       "times": {
         "T1": 124127,
-        "T2": 106129,
+        "T2": 104585,
         "T3": 115608
       },
-      "totalMs": 345864,
+      "totalMs": 344320,
       "rank": 2
     },
     {
