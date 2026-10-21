@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T02:00:14.660Z",
+  "generatedAt": "2026-10-21T02:31:05.027Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -676,10 +676,10 @@
       "name": "SteadyTrekker",
       "times": {
         "T1": 189034,
-        "T2": 167381,
+        "T2": 158194,
         "T3": 150647
       },
-      "totalMs": 507062,
+      "totalMs": 497875,
       "rank": 68
     },
     {
