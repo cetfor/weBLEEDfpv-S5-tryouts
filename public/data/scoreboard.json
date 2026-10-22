@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T00:42:46.198Z",
+  "generatedAt": "2026-10-22T01:10:08.061Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -583,6 +583,16 @@
       "rank": 58
     },
     {
+      "name": "OmegaZenon",
+      "times": {
+        "T1": 168434,
+        "T2": 131067,
+        "T3": 155889
+      },
+      "totalMs": 455390,
+      "rank": 59
+    },
+    {
       "name": "Shark__fpv",
       "times": {
         "T1": 139007,
@@ -590,7 +600,7 @@
         "T3": 156906
       },
       "totalMs": 455677,
-      "rank": 59
+      "rank": 60
     },
     {
       "name": "Fastodon",
@@ -600,7 +610,7 @@
         "T3": 147660
       },
       "totalMs": 460801,
-      "rank": 60
+      "rank": 61
     },
     {
       "name": "Batman FPV (Beta Tester)",
@@ -610,16 +620,6 @@
         "T3": 144021
       },
       "totalMs": 464534,
-      "rank": 61
-    },
-    {
-      "name": "OmegaZenon",
-      "times": {
-        "T1": 174641,
-        "T2": 131067,
-        "T3": 159869
-      },
-      "totalMs": 465577,
       "rank": 62
     },
     {
