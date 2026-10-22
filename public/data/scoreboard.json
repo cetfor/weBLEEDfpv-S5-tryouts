@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T02:30:22.353Z",
+  "generatedAt": "2026-10-22T03:02:37.279Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -893,6 +893,16 @@
       "rank": 89
     },
     {
+      "name": "Skeeterbug",
+      "times": {
+        "T1": 255589,
+        "T2": 214791,
+        "T3": 215371
+      },
+      "totalMs": 685751,
+      "rank": 90
+    },
+    {
       "name": "AlexeySyromyatnikov",
       "times": {
         "T1": 247175,
@@ -900,7 +910,7 @@
         "T3": 254929
       },
       "totalMs": 688615,
-      "rank": 90
+      "rank": 91
     },
     {
       "name": "pawelostr",
@@ -910,7 +920,7 @@
         "T3": 224082
       },
       "totalMs": 696026,
-      "rank": 91
+      "rank": 92
     },
     {
       "name": "ZOETEK (Beta Tester)",
@@ -920,7 +930,7 @@
         "T3": 156931
       },
       "totalMs": 706164,
-      "rank": 92
+      "rank": 93
     },
     {
       "name": "Bodie",
@@ -930,16 +940,6 @@
         "T3": 187162
       },
       "totalMs": 721402,
-      "rank": 93
-    },
-    {
-      "name": "Skeeterbug",
-      "times": {
-        "T1": 255589,
-        "T2": 293831,
-        "T3": 215371
-      },
-      "totalMs": 764791,
       "rank": 94
     },
     {
