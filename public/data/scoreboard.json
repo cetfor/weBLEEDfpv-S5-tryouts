@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T23:29:13.497Z",
+  "generatedAt": "2026-10-22T23:40:15.008Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -713,6 +713,16 @@
       "rank": 71
     },
     {
+      "name": "SpookyV9",
+      "times": {
+        "T1": 189978,
+        "T2": 157462,
+        "T3": 177599
+      },
+      "totalMs": 525039,
+      "rank": 72
+    },
+    {
       "name": "Geezle FPV",
       "times": {
         "T1": 204865,
@@ -720,7 +730,7 @@
         "T3": 162283
       },
       "totalMs": 534180,
-      "rank": 72
+      "rank": 73
     },
     {
       "name": "xer ‎",
@@ -730,7 +740,7 @@
         "T3": 209877
       },
       "totalMs": 534716,
-      "rank": 73
+      "rank": 74
     },
     {
       "name": "m9ist",
@@ -740,7 +750,7 @@
         "T3": 150676
       },
       "totalMs": 534732,
-      "rank": 74
+      "rank": 75
     },
     {
       "name": "deleteme.txt",
@@ -750,7 +760,7 @@
         "T3": 169220
       },
       "totalMs": 535734,
-      "rank": 75
+      "rank": 76
     },
     {
       "name": "Britchot",
@@ -760,7 +770,7 @@
         "T3": 171764
       },
       "totalMs": 535774,
-      "rank": 76
+      "rank": 77
     },
     {
       "name": "LUV4GOD",
@@ -770,7 +780,7 @@
         "T3": 175966
       },
       "totalMs": 536590,
-      "rank": 77
+      "rank": 78
     },
     {
       "name": "DAFAFPV",
@@ -780,7 +790,7 @@
         "T3": 178750
       },
       "totalMs": 541184,
-      "rank": 78
+      "rank": 79
     },
     {
       "name": "ksauce",
@@ -790,7 +800,7 @@
         "T3": 182710
       },
       "totalMs": 562528,
-      "rank": 79
+      "rank": 80
     },
     {
       "name": "sharks",
@@ -800,16 +810,6 @@
         "T3": 154956
       },
       "totalMs": 563124,
-      "rank": 80
-    },
-    {
-      "name": "SpookyV9",
-      "times": {
-        "T1": 230770,
-        "T2": 157462,
-        "T3": 177599
-      },
-      "totalMs": 565831,
       "rank": 81
     },
     {
