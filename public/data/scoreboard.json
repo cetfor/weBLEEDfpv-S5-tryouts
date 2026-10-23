@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T22:29:17.265Z",
+  "generatedAt": "2026-10-23T22:40:41.702Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -393,6 +393,16 @@
       "rank": 39
     },
     {
+      "name": "FPVRossco (Beta Tester)",
+      "times": {
+        "T1": 154218,
+        "T2": 128531,
+        "T3": 133485
+      },
+      "totalMs": 416234,
+      "rank": 40
+    },
+    {
       "name": "NightwingFPV",
       "times": {
         "T1": 153582,
@@ -400,16 +410,6 @@
         "T3": 135354
       },
       "totalMs": 416430,
-      "rank": 40
-    },
-    {
-      "name": "FPVRossco (Beta Tester)",
-      "times": {
-        "T1": 154218,
-        "T2": 128531,
-        "T3": 134379
-      },
-      "totalMs": 417128,
       "rank": 41
     },
     {
@@ -603,6 +603,16 @@
       "rank": 60
     },
     {
+      "name": "SpookyV9",
+      "times": {
+        "T1": 170143,
+        "T2": 145465,
+        "T3": 137673
+      },
+      "totalMs": 453281,
+      "rank": 61
+    },
+    {
       "name": "Shark__fpv",
       "times": {
         "T1": 139007,
@@ -610,16 +620,6 @@
         "T3": 156906
       },
       "totalMs": 455677,
-      "rank": 61
-    },
-    {
-      "name": "SpookyV9",
-      "times": {
-        "T1": 170143,
-        "T2": 145465,
-        "T3": 143248
-      },
-      "totalMs": 458856,
       "rank": 62
     },
     {
