@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T23:28:12.826Z",
+  "generatedAt": "2026-10-23T23:40:05.634Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -525,11 +525,11 @@
     {
       "name": "BansheeBro",
       "times": {
-        "T1": 163667,
+        "T1": 162198,
         "T2": 135932,
         "T3": 139083
       },
-      "totalMs": 438682,
+      "totalMs": 437213,
       "rank": 53
     },
     {
