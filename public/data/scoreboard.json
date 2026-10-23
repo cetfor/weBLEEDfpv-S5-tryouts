@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T08:22:11.174Z",
+  "generatedAt": "2026-10-23T08:46:14.097Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -293,6 +293,16 @@
       "rank": 29
     },
     {
+      "name": "Senko",
+      "times": {
+        "T1": 141360,
+        "T2": 126148,
+        "T3": 139109
+      },
+      "totalMs": 406617,
+      "rank": 30
+    },
+    {
       "name": "SlackersFPV",
       "times": {
         "T1": 150481,
@@ -300,7 +310,7 @@
         "T3": 133151
       },
       "totalMs": 408300,
-      "rank": 30
+      "rank": 31
     },
     {
       "name": "Cha Cha",
@@ -310,7 +320,7 @@
         "T3": 130450
       },
       "totalMs": 410497,
-      "rank": 31
+      "rank": 32
     },
     {
       "name": "Doomburgerfpv",
@@ -320,7 +330,7 @@
         "T3": 132409
       },
       "totalMs": 411828,
-      "rank": 32
+      "rank": 33
     },
     {
       "name": "FulcrumFPV",
@@ -330,7 +340,7 @@
         "T3": 137391
       },
       "totalMs": 412469,
-      "rank": 33
+      "rank": 34
     },
     {
       "name": "OGdrLove",
@@ -340,7 +350,7 @@
         "T3": 127904
       },
       "totalMs": 413115,
-      "rank": 34
+      "rank": 35
     },
     {
       "name": "GeekBench",
@@ -350,7 +360,7 @@
         "T3": 135003
       },
       "totalMs": 413547,
-      "rank": 35
+      "rank": 36
     },
     {
       "name": "Dinglez",
@@ -360,7 +370,7 @@
         "T3": 135435
       },
       "totalMs": 413934,
-      "rank": 36
+      "rank": 37
     },
     {
       "name": "regex",
@@ -370,7 +380,7 @@
         "T3": 128827
       },
       "totalMs": 414749,
-      "rank": 37
+      "rank": 38
     },
     {
       "name": "_ZAR_",
@@ -380,7 +390,7 @@
         "T3": 133969
       },
       "totalMs": 414782,
-      "rank": 38
+      "rank": 39
     },
     {
       "name": "NightwingFPV",
@@ -390,7 +400,7 @@
         "T3": 135354
       },
       "totalMs": 416430,
-      "rank": 39
+      "rank": 40
     },
     {
       "name": "BlockFPV",
@@ -400,7 +410,7 @@
         "T3": 135706
       },
       "totalMs": 417942,
-      "rank": 40
+      "rank": 41
     },
     {
       "name": "Hypnos FPV",
@@ -410,7 +420,7 @@
         "T3": 135084
       },
       "totalMs": 418859,
-      "rank": 41
+      "rank": 42
     },
     {
       "name": "Bork FPV",
@@ -420,16 +430,6 @@
         "T3": 135987
       },
       "totalMs": 419268,
-      "rank": 42
-    },
-    {
-      "name": "Senko",
-      "times": {
-        "T1": 141360,
-        "T2": 126148,
-        "T3": 151969
-      },
-      "totalMs": 419477,
       "rank": 43
     },
     {
