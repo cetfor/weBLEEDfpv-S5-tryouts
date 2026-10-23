@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T21:41:25.065Z",
+  "generatedAt": "2026-10-23T21:50:57.116Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -463,6 +463,16 @@
       "rank": 46
     },
     {
+      "name": "FPVRossco (Beta Tester)",
+      "times": {
+        "T1": 159473,
+        "T2": 128531,
+        "T3": 140381
+      },
+      "totalMs": 428385,
+      "rank": 47
+    },
+    {
       "name": "_-Crimson-_",
       "times": {
         "T1": 161171,
@@ -470,7 +480,7 @@
         "T3": 138679
       },
       "totalMs": 428539,
-      "rank": 47
+      "rank": 48
     },
     {
       "name": "-Zip-",
@@ -480,16 +490,6 @@
         "T3": 142327
       },
       "totalMs": 428607,
-      "rank": 48
-    },
-    {
-      "name": "FPVRossco (Beta Tester)",
-      "times": {
-        "T1": 159473,
-        "T2": 133150,
-        "T3": 140381
-      },
-      "totalMs": 433004,
       "rank": 49
     },
     {
@@ -523,6 +523,16 @@
       "rank": 52
     },
     {
+      "name": "BansheeBro",
+      "times": {
+        "T1": 163667,
+        "T2": 135932,
+        "T3": 139083
+      },
+      "totalMs": 438682,
+      "rank": 53
+    },
+    {
       "name": "Wheelman1",
       "times": {
         "T1": 160840,
@@ -530,7 +540,7 @@
         "T3": 143349
       },
       "totalMs": 438758,
-      "rank": 53
+      "rank": 54
     },
     {
       "name": "j4y",
@@ -540,7 +550,7 @@
         "T3": 136926
       },
       "totalMs": 441562,
-      "rank": 54
+      "rank": 55
     },
     {
       "name": "TheSkittles (Beta Tester)",
@@ -550,16 +560,6 @@
         "T3": 146909
       },
       "totalMs": 442744,
-      "rank": 55
-    },
-    {
-      "name": "BansheeBro",
-      "times": {
-        "T1": 168700,
-        "T2": 135932,
-        "T3": 139083
-      },
-      "totalMs": 443715,
       "rank": 56
     },
     {
