@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T23:50:15.461Z",
+  "generatedAt": "2026-10-23T00:44:10.515Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -533,6 +533,16 @@
       "rank": 53
     },
     {
+      "name": "OmegaZenon",
+      "times": {
+        "T1": 168434,
+        "T2": 131067,
+        "T3": 143661
+      },
+      "totalMs": 443162,
+      "rank": 54
+    },
+    {
       "name": "BansheeBro",
       "times": {
         "T1": 168700,
@@ -540,7 +550,7 @@
         "T3": 139083
       },
       "totalMs": 443715,
-      "rank": 54
+      "rank": 55
     },
     {
       "name": "Perc.FPV",
@@ -550,7 +560,7 @@
         "T3": 149505
       },
       "totalMs": 445360,
-      "rank": 55
+      "rank": 56
     },
     {
       "name": "Sir Tarzan",
@@ -560,7 +570,7 @@
         "T3": 140550
       },
       "totalMs": 447368,
-      "rank": 56
+      "rank": 57
     },
     {
       "name": "mimidub",
@@ -570,7 +580,7 @@
         "T3": 146610
       },
       "totalMs": 449680,
-      "rank": 57
+      "rank": 58
     },
     {
       "name": "Kbar (Beta Tester)",
@@ -580,16 +590,6 @@
         "T3": 141039
       },
       "totalMs": 449929,
-      "rank": 58
-    },
-    {
-      "name": "OmegaZenon",
-      "times": {
-        "T1": 168434,
-        "T2": 131067,
-        "T3": 155889
-      },
-      "totalMs": 455390,
       "rank": 59
     },
     {
@@ -683,6 +683,16 @@
       "rank": 68
     },
     {
+      "name": "SpookyV9",
+      "times": {
+        "T1": 180419,
+        "T2": 157462,
+        "T3": 161165
+      },
+      "totalMs": 499046,
+      "rank": 69
+    },
+    {
       "name": "FunOn",
       "times": {
         "T1": 203280,
@@ -690,7 +700,7 @@
         "T3": 148750
       },
       "totalMs": 514168,
-      "rank": 69
+      "rank": 70
     },
     {
       "name": "zaMega",
@@ -700,16 +710,6 @@
         "T3": 154382
       },
       "totalMs": 515333,
-      "rank": 70
-    },
-    {
-      "name": "SpookyV9",
-      "times": {
-        "T1": 180419,
-        "T2": 157462,
-        "T3": 177599
-      },
-      "totalMs": 515480,
       "rank": 71
     },
     {
