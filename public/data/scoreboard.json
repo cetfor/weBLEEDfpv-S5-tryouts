@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T00:44:10.515Z",
+  "generatedAt": "2026-10-23T01:14:28.874Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -483,6 +483,16 @@
       "rank": 48
     },
     {
+      "name": "OmegaZenon",
+      "times": {
+        "T1": 158902,
+        "T2": 131067,
+        "T3": 143661
+      },
+      "totalMs": 433630,
+      "rank": 49
+    },
+    {
       "name": "stasyan1339",
       "times": {
         "T1": 158727,
@@ -490,7 +500,7 @@
         "T3": 142319
       },
       "totalMs": 435971,
-      "rank": 49
+      "rank": 50
     },
     {
       "name": "FakeitFPV",
@@ -500,7 +510,7 @@
         "T3": 149413
       },
       "totalMs": 436411,
-      "rank": 50
+      "rank": 51
     },
     {
       "name": "Wheelman1",
@@ -510,7 +520,7 @@
         "T3": 143349
       },
       "totalMs": 438758,
-      "rank": 51
+      "rank": 52
     },
     {
       "name": "j4y",
@@ -520,7 +530,7 @@
         "T3": 136926
       },
       "totalMs": 441562,
-      "rank": 52
+      "rank": 53
     },
     {
       "name": "TheSkittles (Beta Tester)",
@@ -530,16 +540,6 @@
         "T3": 146909
       },
       "totalMs": 442744,
-      "rank": 53
-    },
-    {
-      "name": "OmegaZenon",
-      "times": {
-        "T1": 168434,
-        "T2": 131067,
-        "T3": 143661
-      },
-      "totalMs": 443162,
       "rank": 54
     },
     {
