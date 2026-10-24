@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T20:50:28.224Z",
+  "generatedAt": "2026-10-24T21:14:02.549Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -133,6 +133,16 @@
       "rank": 13
     },
     {
+      "name": "TMAD",
+      "times": {
+        "T1": 135153,
+        "T2": 117679,
+        "T3": 124014
+      },
+      "totalMs": 376846,
+      "rank": 14
+    },
+    {
       "name": "BenDaOctopus",
       "times": {
         "T1": 128464,
@@ -140,7 +150,7 @@
         "T3": 134510
       },
       "totalMs": 377123,
-      "rank": 14
+      "rank": 15
     },
     {
       "name": "LeshaRodin",
@@ -150,16 +160,6 @@
         "T3": 122847
       },
       "totalMs": 377784,
-      "rank": 15
-    },
-    {
-      "name": "TMAD",
-      "times": {
-        "T1": 135153,
-        "T2": 117679,
-        "T3": 126815
-      },
-      "totalMs": 379647,
       "rank": 16
     },
     {
