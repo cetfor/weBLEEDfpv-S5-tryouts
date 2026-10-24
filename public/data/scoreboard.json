@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T01:10:05.049Z",
+  "generatedAt": "2026-10-24T01:34:58.072Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -923,6 +923,16 @@
       "rank": 92
     },
     {
+      "name": "Sebby_D_FPV",
+      "times": {
+        "T1": 267982,
+        "T2": 221415,
+        "T3": 194593
+      },
+      "totalMs": 683990,
+      "rank": 93
+    },
+    {
       "name": "Skeeterbug",
       "times": {
         "T1": 255589,
@@ -930,7 +940,7 @@
         "T3": 215371
       },
       "totalMs": 685751,
-      "rank": 93
+      "rank": 94
     },
     {
       "name": "AlexeySyromyatnikov",
@@ -940,7 +950,7 @@
         "T3": 254929
       },
       "totalMs": 688615,
-      "rank": 94
+      "rank": 95
     },
     {
       "name": "BrokenParts",
@@ -950,16 +960,6 @@
         "T3": 195220
       },
       "totalMs": 692771,
-      "rank": 95
-    },
-    {
-      "name": "Sebby_D_FPV",
-      "times": {
-        "T1": 276842,
-        "T2": 221415,
-        "T3": 194593
-      },
-      "totalMs": 692850,
       "rank": 96
     },
     {
