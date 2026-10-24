@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T02:27:03.615Z",
+  "generatedAt": "2026-10-24T02:47:07.460Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -746,10 +746,10 @@
       "name": "Lounds (Beta Tester)",
       "times": {
         "T1": 207205,
-        "T2": 140405,
+        "T2": 134076,
         "T3": 180066
       },
-      "totalMs": 527676,
+      "totalMs": 521347,
       "rank": 75
     },
     {
