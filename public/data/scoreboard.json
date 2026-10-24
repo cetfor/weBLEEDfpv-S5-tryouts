@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T16:50:27.424Z",
+  "generatedAt": "2026-10-24T17:12:55.547Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -273,6 +273,16 @@
       "rank": 27
     },
     {
+      "name": "Cha Cha",
+      "times": {
+        "T1": 146414,
+        "T2": 126986,
+        "T3": 130450
+      },
+      "totalMs": 403850,
+      "rank": 28
+    },
+    {
       "name": "Crash Flip",
       "times": {
         "T1": 148783,
@@ -280,16 +290,6 @@
         "T3": 128558
       },
       "totalMs": 404197,
-      "rank": 28
-    },
-    {
-      "name": "Cha Cha",
-      "times": {
-        "T1": 146414,
-        "T2": 128114,
-        "T3": 130450
-      },
-      "totalMs": 404978,
       "rank": 29
     },
     {
