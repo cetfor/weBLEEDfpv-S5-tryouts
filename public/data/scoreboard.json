@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T07:51:05.278Z",
+  "generatedAt": "2026-10-25T08:19:57.599Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -273,6 +273,16 @@
       "rank": 27
     },
     {
+      "name": "Doomburgerfpv",
+      "times": {
+        "T1": 145528,
+        "T2": 124850,
+        "T3": 131379
+      },
+      "totalMs": 401757,
+      "rank": 28
+    },
+    {
       "name": "Cha Cha",
       "times": {
         "T1": 146414,
@@ -280,16 +290,6 @@
         "T3": 130450
       },
       "totalMs": 402131,
-      "rank": 28
-    },
-    {
-      "name": "Doomburgerfpv",
-      "times": {
-        "T1": 145528,
-        "T2": 124850,
-        "T3": 132409
-      },
-      "totalMs": 402787,
       "rank": 29
     },
     {
