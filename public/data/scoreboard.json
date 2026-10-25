@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T19:49:52.205Z",
+  "generatedAt": "2026-10-25T20:14:51.068Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -333,6 +333,16 @@
       "rank": 33
     },
     {
+      "name": "Hypnos FPV",
+      "times": {
+        "T1": 144985,
+        "T2": 128830,
+        "T3": 135084
+      },
+      "totalMs": 408899,
+      "rank": 34
+    },
+    {
       "name": "FulcrumFPV",
       "times": {
         "T1": 133493,
@@ -340,7 +350,7 @@
         "T3": 137391
       },
       "totalMs": 412469,
-      "rank": 34
+      "rank": 35
     },
     {
       "name": "OGdrLove",
@@ -350,7 +360,7 @@
         "T3": 127904
       },
       "totalMs": 413115,
-      "rank": 35
+      "rank": 36
     },
     {
       "name": "GeekBench",
@@ -360,7 +370,7 @@
         "T3": 135003
       },
       "totalMs": 413547,
-      "rank": 36
+      "rank": 37
     },
     {
       "name": "Dinglez",
@@ -370,7 +380,7 @@
         "T3": 135435
       },
       "totalMs": 413934,
-      "rank": 37
+      "rank": 38
     },
     {
       "name": "regex",
@@ -380,7 +390,7 @@
         "T3": 128827
       },
       "totalMs": 414749,
-      "rank": 38
+      "rank": 39
     },
     {
       "name": "_ZAR_",
@@ -390,7 +400,7 @@
         "T3": 133969
       },
       "totalMs": 414782,
-      "rank": 39
+      "rank": 40
     },
     {
       "name": "FPVRossco (Beta Tester)",
@@ -400,7 +410,7 @@
         "T3": 133485
       },
       "totalMs": 416234,
-      "rank": 40
+      "rank": 41
     },
     {
       "name": "NightwingFPV",
@@ -410,7 +420,7 @@
         "T3": 135354
       },
       "totalMs": 416430,
-      "rank": 41
+      "rank": 42
     },
     {
       "name": "BlockFPV",
@@ -420,16 +430,6 @@
         "T3": 135706
       },
       "totalMs": 417942,
-      "rank": 42
-    },
-    {
-      "name": "Hypnos FPV",
-      "times": {
-        "T1": 154945,
-        "T2": 128830,
-        "T3": 135084
-      },
-      "totalMs": 418859,
       "rank": 43
     },
     {
@@ -913,6 +913,16 @@
       "rank": 91
     },
     {
+      "name": "Sebby_D_FPV",
+      "times": {
+        "T1": 263664,
+        "T2": 221415,
+        "T3": 184816
+      },
+      "totalMs": 669895,
+      "rank": 92
+    },
+    {
       "name": "Air_Wolf",
       "times": {
         "T1": 262728,
@@ -920,16 +930,6 @@
         "T3": 186074
       },
       "totalMs": 673295,
-      "rank": 92
-    },
-    {
-      "name": "Sebby_D_FPV",
-      "times": {
-        "T1": 267982,
-        "T2": 221415,
-        "T3": 184816
-      },
-      "totalMs": 674213,
       "rank": 93
     },
     {
