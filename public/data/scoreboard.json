@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T01:28:06.831Z",
+  "generatedAt": "2026-10-25T01:52:47.414Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -723,6 +723,16 @@
       "rank": 72
     },
     {
+      "name": "Lounds (Beta Tester)",
+      "times": {
+        "T1": 189227,
+        "T2": 134076,
+        "T3": 180066
+      },
+      "totalMs": 503369,
+      "rank": 73
+    },
+    {
       "name": "FunOn",
       "times": {
         "T1": 203280,
@@ -730,7 +740,7 @@
         "T3": 148750
       },
       "totalMs": 514168,
-      "rank": 73
+      "rank": 74
     },
     {
       "name": "zaMega",
@@ -740,7 +750,7 @@
         "T3": 154382
       },
       "totalMs": 515333,
-      "rank": 74
+      "rank": 75
     },
     {
       "name": "Trooper_fpv",
@@ -750,16 +760,6 @@
         "T3": 157453
       },
       "totalMs": 518893,
-      "rank": 75
-    },
-    {
-      "name": "Lounds (Beta Tester)",
-      "times": {
-        "T1": 207205,
-        "T2": 134076,
-        "T3": 180066
-      },
-      "totalMs": 521347,
       "rank": 76
     },
     {
