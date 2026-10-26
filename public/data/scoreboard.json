@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T17:18:44.072Z",
+  "generatedAt": "2026-10-26T17:40:55.954Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -683,6 +683,16 @@
       "rank": 68
     },
     {
+      "name": "KY_GeLLi (Beta Tester)",
+      "times": {
+        "T1": 220731,
+        "T2": 119402,
+        "T3": 131965
+      },
+      "totalMs": 472098,
+      "rank": 69
+    },
+    {
       "name": "burnerXIII",
       "times": {
         "T1": 171137,
@@ -690,7 +700,7 @@
         "T3": 155568
       },
       "totalMs": 477841,
-      "rank": 69
+      "rank": 70
     },
     {
       "name": "SteadyTrekker",
@@ -700,7 +710,7 @@
         "T3": 150647
       },
       "totalMs": 479242,
-      "rank": 70
+      "rank": 71
     },
     {
       "name": "Lounds (Beta Tester)",
@@ -710,7 +720,7 @@
         "T3": 180066
       },
       "totalMs": 482173,
-      "rank": 71
+      "rank": 72
     },
     {
       "name": "BallHawk",
@@ -720,7 +730,7 @@
         "T3": 156439
       },
       "totalMs": 484460,
-      "rank": 72
+      "rank": 73
     },
     {
       "name": "NickRandom",
@@ -730,16 +740,6 @@
         "T3": 140720
       },
       "totalMs": 484855,
-      "rank": 73
-    },
-    {
-      "name": "KY_GeLLi (Beta Tester)",
-      "times": {
-        "T1": 220731,
-        "T2": 119402,
-        "T3": 145808
-      },
-      "totalMs": 485941,
       "rank": 74
     },
     {
