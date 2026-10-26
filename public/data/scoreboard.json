@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T01:16:42.198Z",
+  "generatedAt": "2026-10-26T01:54:47.459Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -483,6 +483,16 @@
       "rank": 48
     },
     {
+      "name": "-Zip-",
+      "times": {
+        "T1": 153326,
+        "T2": 132724,
+        "T3": 142327
+      },
+      "totalMs": 428377,
+      "rank": 49
+    },
+    {
       "name": "_-Crimson-_",
       "times": {
         "T1": 161171,
@@ -490,16 +500,6 @@
         "T3": 138679
       },
       "totalMs": 428539,
-      "rank": 49
-    },
-    {
-      "name": "-Zip-",
-      "times": {
-        "T1": 153326,
-        "T2": 132954,
-        "T3": 142327
-      },
-      "totalMs": 428607,
       "rank": 50
     },
     {
@@ -573,6 +573,16 @@
       "rank": 57
     },
     {
+      "name": "SpookyV9",
+      "times": {
+        "T1": 170143,
+        "T2": 134321,
+        "T3": 137673
+      },
+      "totalMs": 442137,
+      "rank": 58
+    },
+    {
       "name": "TheSkittles (Beta Tester)",
       "times": {
         "T1": 161405,
@@ -580,7 +590,7 @@
         "T3": 146909
       },
       "totalMs": 442744,
-      "rank": 58
+      "rank": 59
     },
     {
       "name": "mimidub",
@@ -590,7 +600,7 @@
         "T3": 146610
       },
       "totalMs": 449680,
-      "rank": 59
+      "rank": 60
     },
     {
       "name": "Kbar (Beta Tester)",
@@ -600,16 +610,6 @@
         "T3": 141039
       },
       "totalMs": 449929,
-      "rank": 60
-    },
-    {
-      "name": "SpookyV9",
-      "times": {
-        "T1": 170143,
-        "T2": 145465,
-        "T3": 137673
-      },
-      "totalMs": 453281,
       "rank": 61
     },
     {
@@ -993,6 +993,16 @@
       "rank": 99
     },
     {
+      "name": "Lord_Lanny",
+      "times": {
+        "T1": 232029,
+        "T2": 303093,
+        "T3": 229215
+      },
+      "totalMs": 764337,
+      "rank": 100
+    },
+    {
       "name": "DopamineFPV",
       "times": {
         "T1": 347264,
@@ -1000,7 +1010,7 @@
         "T3": 236625
       },
       "totalMs": 909308,
-      "rank": 100
+      "rank": 101
     },
     {
       "name": "mictinfpv",
@@ -1010,7 +1020,7 @@
         "T3": 320701
       },
       "totalMs": 955103,
-      "rank": 101
+      "rank": 102
     },
     {
       "name": "fulknerra",
@@ -1020,7 +1030,7 @@
         "T3": 432405
       },
       "totalMs": 1389240,
-      "rank": 102
+      "rank": 103
     }
   ]
 }
