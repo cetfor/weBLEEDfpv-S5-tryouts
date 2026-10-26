@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T16:57:22.648Z",
+  "generatedAt": "2026-10-26T17:18:44.072Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -733,6 +733,16 @@
       "rank": 73
     },
     {
+      "name": "KY_GeLLi (Beta Tester)",
+      "times": {
+        "T1": 220731,
+        "T2": 119402,
+        "T3": 145808
+      },
+      "totalMs": 485941,
+      "rank": 74
+    },
+    {
       "name": "h0pefpv",
       "times": {
         "T1": 176278,
@@ -740,7 +750,7 @@
         "T3": 155159
       },
       "totalMs": 494265,
-      "rank": 74
+      "rank": 75
     },
     {
       "name": "FunOn",
@@ -750,7 +760,7 @@
         "T3": 148750
       },
       "totalMs": 514168,
-      "rank": 75
+      "rank": 76
     },
     {
       "name": "zaMega",
@@ -760,7 +770,7 @@
         "T3": 154382
       },
       "totalMs": 515333,
-      "rank": 76
+      "rank": 77
     },
     {
       "name": "Trooper_fpv",
@@ -770,7 +780,7 @@
         "T3": 157453
       },
       "totalMs": 518893,
-      "rank": 77
+      "rank": 78
     },
     {
       "name": "DAFAFPV",
@@ -780,7 +790,7 @@
         "T3": 173792
       },
       "totalMs": 530274,
-      "rank": 78
+      "rank": 79
     },
     {
       "name": "Geezle FPV",
@@ -790,7 +800,7 @@
         "T3": 162283
       },
       "totalMs": 534180,
-      "rank": 79
+      "rank": 80
     },
     {
       "name": "m9ist",
@@ -800,7 +810,7 @@
         "T3": 150676
       },
       "totalMs": 534732,
-      "rank": 80
+      "rank": 81
     },
     {
       "name": "deleteme.txt",
@@ -810,7 +820,7 @@
         "T3": 169220
       },
       "totalMs": 535734,
-      "rank": 81
+      "rank": 82
     },
     {
       "name": "Britchot",
@@ -820,7 +830,7 @@
         "T3": 171764
       },
       "totalMs": 535774,
-      "rank": 82
+      "rank": 83
     },
     {
       "name": "LUV4GOD",
@@ -830,7 +840,7 @@
         "T3": 175966
       },
       "totalMs": 536590,
-      "rank": 83
+      "rank": 84
     },
     {
       "name": "ksauce",
@@ -840,7 +850,7 @@
         "T3": 182710
       },
       "totalMs": 562528,
-      "rank": 84
+      "rank": 85
     },
     {
       "name": "sharks",
@@ -850,7 +860,7 @@
         "T3": 154956
       },
       "totalMs": 563124,
-      "rank": 85
+      "rank": 86
     },
     {
       "name": "Casperskulls",
@@ -860,7 +870,7 @@
         "T3": 179970
       },
       "totalMs": 591973,
-      "rank": 86
+      "rank": 87
     },
     {
       "name": "OGREfpv",
@@ -870,7 +880,7 @@
         "T3": 182139
       },
       "totalMs": 601353,
-      "rank": 87
+      "rank": 88
     },
     {
       "name": "Selector504",
@@ -880,7 +890,7 @@
         "T3": 161598
       },
       "totalMs": 601813,
-      "rank": 88
+      "rank": 89
     },
     {
       "name": "BACONFEATURES",
@@ -890,7 +900,7 @@
         "T3": 190336
       },
       "totalMs": 607316,
-      "rank": 89
+      "rank": 90
     },
     {
       "name": "Tasatir_0",
@@ -900,7 +910,7 @@
         "T3": 190492
       },
       "totalMs": 632746,
-      "rank": 90
+      "rank": 91
     },
     {
       "name": "redeux",
@@ -910,7 +920,7 @@
         "T3": 199199
       },
       "totalMs": 637782,
-      "rank": 91
+      "rank": 92
     },
     {
       "name": "Sebby_D_FPV",
@@ -920,7 +930,7 @@
         "T3": 184816
       },
       "totalMs": 669895,
-      "rank": 92
+      "rank": 93
     },
     {
       "name": "Air_Wolf",
@@ -930,7 +940,7 @@
         "T3": 186074
       },
       "totalMs": 673295,
-      "rank": 93
+      "rank": 94
     },
     {
       "name": "BrokenParts",
@@ -940,7 +950,7 @@
         "T3": 195220
       },
       "totalMs": 678769,
-      "rank": 94
+      "rank": 95
     },
     {
       "name": "Skeeterbug",
@@ -950,7 +960,7 @@
         "T3": 215371
       },
       "totalMs": 685751,
-      "rank": 95
+      "rank": 96
     },
     {
       "name": "AlexeySyromyatnikov",
@@ -960,7 +970,7 @@
         "T3": 254929
       },
       "totalMs": 688615,
-      "rank": 96
+      "rank": 97
     },
     {
       "name": "pawelostr",
@@ -970,7 +980,7 @@
         "T3": 224082
       },
       "totalMs": 696026,
-      "rank": 97
+      "rank": 98
     },
     {
       "name": "ZOETEK (Beta Tester)",
@@ -980,7 +990,7 @@
         "T3": 156931
       },
       "totalMs": 699532,
-      "rank": 98
+      "rank": 99
     },
     {
       "name": "Eclipse",
@@ -990,7 +1000,7 @@
         "T3": 197101
       },
       "totalMs": 707027,
-      "rank": 99
+      "rank": 100
     },
     {
       "name": "Bodie",
@@ -1000,7 +1010,7 @@
         "T3": 187162
       },
       "totalMs": 721402,
-      "rank": 100
+      "rank": 101
     },
     {
       "name": "Lord_Lanny",
@@ -1010,7 +1020,7 @@
         "T3": 229215
       },
       "totalMs": 764337,
-      "rank": 101
+      "rank": 102
     },
     {
       "name": "DopamineFPV",
@@ -1020,7 +1030,7 @@
         "T3": 236625
       },
       "totalMs": 909308,
-      "rank": 102
+      "rank": 103
     },
     {
       "name": "mictinfpv",
@@ -1030,7 +1040,7 @@
         "T3": 320701
       },
       "totalMs": 955103,
-      "rank": 103
+      "rank": 104
     },
     {
       "name": "fulknerra",
@@ -1040,7 +1050,7 @@
         "T3": 432405
       },
       "totalMs": 1389240,
-      "rank": 104
+      "rank": 105
     }
   ]
 }
