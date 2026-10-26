@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T13:48:56.436Z",
+  "generatedAt": "2026-10-26T15:04:41.493Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -773,6 +773,16 @@
       "rank": 77
     },
     {
+      "name": "DAFAFPV",
+      "times": {
+        "T1": 190674,
+        "T2": 165808,
+        "T3": 175371
+      },
+      "totalMs": 531853,
+      "rank": 78
+    },
+    {
       "name": "Geezle FPV",
       "times": {
         "T1": 204865,
@@ -780,16 +790,6 @@
         "T3": 162283
       },
       "totalMs": 534180,
-      "rank": 78
-    },
-    {
-      "name": "DAFAFPV",
-      "times": {
-        "T1": 190674,
-        "T2": 165808,
-        "T3": 177848
-      },
-      "totalMs": 534330,
       "rank": 79
     },
     {
