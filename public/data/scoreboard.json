@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T02:52:20.058Z",
+  "generatedAt": "2026-10-26T03:23:37.470Z",
   "source": "https://www.velocidrone.com/leaderboard/105/2174/All | https://www.velocidrone.com/leaderboard/105/2175/All | https://www.velocidrone.com/leaderboard/33/2176/All",
   "pilots": [
     {
@@ -653,6 +653,16 @@
       "rank": 65
     },
     {
+      "name": "xer ‎",
+      "times": {
+        "T1": 176908,
+        "T2": 139156,
+        "T3": 150703
+      },
+      "totalMs": 466767,
+      "rank": 66
+    },
+    {
       "name": "ZEBRA_THREE",
       "times": {
         "T1": 177120,
@@ -660,7 +670,7 @@
         "T3": 148482
       },
       "totalMs": 469635,
-      "rank": 66
+      "rank": 67
     },
     {
       "name": "wolfgoat",
@@ -670,16 +680,6 @@
         "T3": 148652
       },
       "totalMs": 470352,
-      "rank": 67
-    },
-    {
-      "name": "xer ‎",
-      "times": {
-        "T1": 176908,
-        "T2": 147931,
-        "T3": 150703
-      },
-      "totalMs": 475542,
       "rank": 68
     },
     {
@@ -983,6 +983,16 @@
       "rank": 98
     },
     {
+      "name": "Eclipse",
+      "times": {
+        "T1": 263625,
+        "T2": 246301,
+        "T3": 197101
+      },
+      "totalMs": 707027,
+      "rank": 99
+    },
+    {
       "name": "Bodie",
       "times": {
         "T1": 351915,
@@ -990,7 +1000,7 @@
         "T3": 187162
       },
       "totalMs": 721402,
-      "rank": 99
+      "rank": 100
     },
     {
       "name": "Lord_Lanny",
@@ -1000,7 +1010,7 @@
         "T3": 229215
       },
       "totalMs": 764337,
-      "rank": 100
+      "rank": 101
     },
     {
       "name": "DopamineFPV",
@@ -1010,7 +1020,7 @@
         "T3": 236625
       },
       "totalMs": 909308,
-      "rank": 101
+      "rank": 102
     },
     {
       "name": "mictinfpv",
@@ -1020,7 +1030,7 @@
         "T3": 320701
       },
       "totalMs": 955103,
-      "rank": 102
+      "rank": 103
     },
     {
       "name": "fulknerra",
@@ -1030,7 +1040,7 @@
         "T3": 432405
       },
       "totalMs": 1389240,
-      "rank": 103
+      "rank": 104
     }
   ]
 }
